@@ -1,0 +1,1001 @@
+estados_brasileiros,idade,sexo,data,refeicao,grupo_de_alimento,alimento_especifico,quantidade_ingerida,calorias
+MS,56,Outro,2025-11-21,Cafe da manha,fibra,chia,30,60
+SC,79,Outro,2026-03-13,Jantar,acucar,refrigerante,100,400
+SP,22,F,2026-02-16,Almoco,Proteina,frango,73,292
+MA,55,Outro,2026-01-04,Almoco,fibra,couve,1,2
+RO,28,M,2026-01-22,Almoco,acucar,biscoito,38,152
+RO,44,M,2026-02-28,Jantar,Carboidrato,macarrao,68,272
+AP,22,F,2025-12-19,Jantar,Carboidrato,batata,35,140
+BA,59,Outro,2025-12-15,Cafe da manha,Carboidrato,arroz,9,36
+SP,61,Outro,2025-09-30,Almoco,Gordura,castanhas,74,666
+GO,62,Outro,2025-12-24,Jantar,Carboidrato,cuscuz,87,348
+RS,69,F,2025-11-12,Jantar,fibra,chia,55,110
+SE,50,M,2025-11-08,Jantar,Proteina,feijao,34,136
+TO,31,F,2025-11-17,Lanche,acucar,biscoito,93,372
+MG,20,M,2026-01-20,Almoco,Gordura,castanhas,68,612
+AM,22,F,2026-02-20,Lanche,Proteina,feijao,9,36
+PB,26,F,2025-11-23,Cafe da manha,Carboidrato,pao,89,356
+TO,66,F,2025-12-14,Cafe da manha,fibra,aveia,5,10
+PA,58,M,2025-12-04,Jantar,Gordura,castanhas,72,648
+MG,78,F,2026-02-23,Cafe da manha,Gordura,queijo,74,666
+RJ,22,Outro,2026-02-26,Lanche,acucar,sorvete,87,348
+SE,29,Outro,2025-11-02,Lanche,Carboidrato,pao,63,252
+RR,21,M,2026-03-13,Lanche,Gordura,abacate,92,828
+SP,22,F,2025-12-07,Jantar,fibra,brocolis,79,158
+SC,39,Outro,2026-01-05,Cafe da manha,Gordura,abacate,98,882
+PI,71,M,2025-11-04,Jantar,Gordura,manteiga,50,450
+ES,72,F,2025-10-04,Cafe da manha,acucar,refrigerante,47,188
+RO,31,M,2025-11-07,Jantar,Gordura,queijo,37,333
+RJ,68,F,2026-03-09,Cafe da manha,Carboidrato,mandioca,100,400
+CE,51,M,2025-10-12,Lanche,Carboidrato,mandioca,42,168
+AC,44,Outro,2025-09-22,Almoco,Proteina,peixe,83,332
+PE,19,F,2025-10-08,Cafe da manha,Gordura,azeite,98,882
+PB,43,F,2025-10-31,Cafe da manha,fibra,aveia,48,96
+AC,28,M,2026-01-07,Almoco,Gordura,abacate,70,630
+PE,79,M,2025-11-04,Almoco,Gordura,abacate,19,171
+CE,49,Outro,2025-12-08,Cafe da manha,Carboidrato,arroz,55,220
+PE,66,M,2026-02-09,Almoco,fibra,linhaca,32,64
+MG,43,F,2026-02-04,Cafe da manha,Carboidrato,batata,34,136
+RS,41,Outro,2025-11-29,Almoco,fibra,linhaca,2,4
+ES,28,Outro,2025-10-12,Lanche,Gordura,castanhas,19,171
+PI,33,F,2025-11-06,Lanche,fibra,linhaca,10,20
+GO,63,Outro,2025-10-10,Jantar,Carboidrato,batata,70,280
+GO,77,M,2025-10-02,Cafe da manha,acucar,refrigerante,60,240
+TO,80,M,2025-12-01,Almoco,Proteina,feijao,10,40
+TO,43,M,2026-03-07,Almoco,Gordura,manteiga,100,900
+PI,27,M,2025-10-10,Lanche,Gordura,azeite,84,756
+SP,19,M,2026-02-24,Jantar,Proteina,carne_bovina,64,256
+PE,55,Outro,2026-02-28,Cafe da manha,fibra,chia,87,174
+MG,69,M,2025-09-21,Almoco,Carboidrato,mandioca,50,200
+RS,80,M,2026-01-16,Cafe da manha,fibra,aveia,88,176
+SP,60,Outro,2025-10-22,Cafe da manha,Proteina,carne_bovina,22,88
+MT,79,M,2025-10-13,Almoco,Carboidrato,macarrao,86,344
+PE,45,Outro,2026-01-09,Cafe da manha,Carboidrato,arroz,9,36
+PI,24,F,2025-10-31,Lanche,Gordura,abacate,26,234
+MA,47,Outro,2026-02-18,Jantar,Carboidrato,arroz,39,156
+PE,49,Outro,2025-10-16,Lanche,Proteina,lentilha,29,116
+MT,79,M,2025-11-18,Cafe da manha,acucar,refrigerante,65,260
+BA,23,F,2025-10-17,Jantar,Proteina,ovos,95,380
+CE,64,F,2025-09-30,Lanche,fibra,chia,52,104
+AC,74,Outro,2026-01-31,Cafe da manha,Carboidrato,pao,52,208
+SP,41,Outro,2026-02-05,Almoco,Carboidrato,macarrao,98,392
+SE,25,M,2025-10-22,Almoco,Gordura,manteiga,73,657
+PI,42,F,2025-11-04,Almoco,fibra,linhaca,81,162
+TO,78,Outro,2026-02-23,Jantar,Gordura,manteiga,21,189
+CE,80,F,2026-02-09,Almoco,fibra,couve,74,148
+PR,22,M,2026-02-05,Cafe da manha,acucar,sorvete,54,216
+RR,77,M,2025-11-04,Cafe da manha,acucar,chocolate,82,328
+MS,35,Outro,2026-01-18,Jantar,Carboidrato,pao,37,148
+SP,57,Outro,2026-02-17,Jantar,acucar,biscoito,36,144
+RS,42,Outro,2026-01-21,Cafe da manha,Proteina,lentilha,15,60
+AP,70,M,2025-09-17,Jantar,Proteina,feijao,1,4
+RO,23,F,2025-09-29,Cafe da manha,fibra,couve,43,86
+SE,21,Outro,2026-03-06,Lanche,fibra,linhaca,2,4
+MA,35,Outro,2026-02-05,Jantar,acucar,biscoito,66,264
+SP,78,F,2026-01-09,Almoco,acucar,refrigerante,80,320
+AM,33,Outro,2026-03-06,Almoco,fibra,aveia,38,76
+SE,36,M,2025-11-19,Jantar,Carboidrato,batata,7,28
+CE,72,M,2026-01-13,Lanche,acucar,sorvete,57,228
+AM,35,M,2025-11-23,Almoco,Proteina,carne_bovina,18,72
+AM,74,Outro,2026-02-21,Almoco,Proteina,feijao,55,220
+PE,46,Outro,2026-02-12,Lanche,Gordura,abacate,47,423
+MT,74,F,2025-12-05,Almoco,acucar,chocolate,25,100
+AC,34,M,2026-02-25,Cafe da manha,acucar,sorvete,51,204
+MA,62,F,2026-01-07,Lanche,Carboidrato,pao,100,400
+PA,38,F,2026-01-19,Jantar,Carboidrato,pao,73,292
+GO,36,F,2025-10-08,Lanche,Proteina,frango,26,104
+RS,72,F,2026-02-03,Cafe da manha,Gordura,azeite,40,360
+SP,47,Outro,2025-11-20,Lanche,Carboidrato,pao,99,396
+AC,20,M,2025-11-02,Lanche,Carboidrato,mandioca,68,272
+RJ,78,Outro,2026-01-30,Jantar,Gordura,manteiga,16,144
+RN,69,M,2026-01-12,Almoco,Carboidrato,arroz,61,244
+AP,42,F,2026-02-09,Lanche,Proteina,ovos,71,284
+PR,27,M,2025-11-11,Lanche,fibra,aveia,9,18
+PA,31,M,2026-02-22,Almoco,Carboidrato,batata,41,164
+SC,42,M,2025-09-20,Lanche,Proteina,carne_bovina,75,300
+PB,33,F,2025-12-14,Cafe da manha,Carboidrato,mandioca,47,188
+AM,54,F,2025-11-10,Jantar,fibra,aveia,84,168
+PI,77,M,2025-09-29,Almoco,Carboidrato,macarrao,80,320
+AL,76,Outro,2026-01-10,Lanche,acucar,sorvete,81,324
+RN,26,Outro,2026-01-28,Cafe da manha,fibra,chia,20,40
+RJ,72,F,2025-11-10,Almoco,acucar,bolo,10,40
+PE,45,Outro,2026-03-11,Lanche,Proteina,carne_bovina,90,360
+DF,29,F,2025-10-05,Jantar,acucar,biscoito,3,12
+RN,73,M,2025-10-26,Lanche,fibra,aveia,57,114
+MA,40,M,2025-12-20,Almoco,Proteina,frango,55,220
+SC,41,M,2025-12-30,Almoco,Gordura,castanhas,27,243
+AC,56,Outro,2025-12-01,Jantar,fibra,chia,57,114
+PE,32,M,2025-10-09,Cafe da manha,Gordura,azeite,65,585
+MT,80,Outro,2026-01-22,Jantar,Proteina,peixe,87,348
+CE,73,M,2026-01-31,Lanche,acucar,chocolate,59,236
+RO,75,F,2025-11-14,Lanche,acucar,bolo,51,204
+MS,80,Outro,2025-11-09,Jantar,acucar,bolo,15,60
+DF,31,F,2026-02-06,Almoco,fibra,brocolis,17,34
+SC,48,Outro,2025-09-26,Jantar,Proteina,ovos,34,136
+RO,43,F,2025-11-04,Almoco,Gordura,manteiga,60,540
+PA,67,F,2025-12-21,Almoco,Proteina,ovos,4,16
+GO,21,Outro,2025-09-25,Lanche,Gordura,abacate,53,477
+RS,22,Outro,2026-01-09,Cafe da manha,Proteina,frango,62,248
+GO,79,M,2025-11-02,Jantar,Proteina,carne_bovina,89,356
+PI,54,Outro,2025-11-05,Lanche,Proteina,lentilha,71,284
+SP,28,F,2026-02-13,Jantar,fibra,brocolis,36,72
+CE,56,Outro,2025-10-31,Jantar,Gordura,manteiga,85,765
+RS,31,M,2026-02-14,Lanche,Carboidrato,cuscuz,1,4
+AC,36,M,2026-01-27,Cafe da manha,acucar,sorvete,66,264
+RS,48,F,2025-10-06,Lanche,Carboidrato,macarrao,52,208
+DF,20,F,2025-11-15,Lanche,acucar,bolo,25,100
+CE,74,F,2025-11-19,Cafe da manha,Carboidrato,macarrao,73,292
+GO,49,M,2026-02-14,Jantar,Gordura,castanhas,11,99
+PA,21,M,2026-02-24,Almoco,acucar,bolo,80,320
+PA,34,M,2026-01-22,Lanche,fibra,linhaca,31,62
+SE,64,M,2025-10-12,Lanche,Carboidrato,arroz,56,224
+AM,46,F,2026-02-18,Almoco,acucar,sorvete,56,224
+SC,21,F,2025-12-02,Jantar,Carboidrato,batata,38,152
+DF,42,Outro,2025-09-18,Lanche,acucar,chocolate,55,220
+RO,48,Outro,2025-12-30,Jantar,Gordura,castanhas,32,288
+PR,61,M,2025-10-20,Almoco,Proteina,ovos,77,308
+MG,32,F,2025-10-18,Almoco,Proteina,ovos,77,308
+PI,60,M,2025-12-24,Lanche,fibra,couve,23,46
+MG,21,M,2025-12-12,Lanche,Carboidrato,cuscuz,57,228
+MT,71,F,2025-10-25,Jantar,Proteina,carne_bovina,54,216
+RS,47,Outro,2025-10-31,Lanche,acucar,refrigerante,2,8
+MT,73,Outro,2026-01-21,Jantar,Gordura,azeite,61,549
+AC,56,F,2026-01-17,Lanche,Carboidrato,pao,76,304
+CE,35,M,2026-02-01,Jantar,fibra,couve,49,98
+SE,39,Outro,2026-03-10,Lanche,Proteina,carne_bovina,80,320
+PE,38,Outro,2026-01-26,Jantar,Proteina,feijao,16,64
+AM,63,M,2026-02-03,Jantar,acucar,refrigerante,29,116
+TO,56,Outro,2025-10-27,Almoco,Carboidrato,cuscuz,44,176
+AL,65,M,2025-11-13,Lanche,Proteina,peixe,69,276
+RO,32,F,2025-12-11,Almoco,Carboidrato,macarrao,97,388
+PA,58,F,2025-12-15,Jantar,Carboidrato,macarrao,30,120
+CE,38,Outro,2026-01-19,Cafe da manha,acucar,biscoito,31,124
+RS,24,M,2025-11-11,Lanche,Carboidrato,cuscuz,64,256
+MA,19,Outro,2025-09-20,Almoco,Carboidrato,cuscuz,71,284
+CE,36,M,2025-11-28,Cafe da manha,Gordura,manteiga,59,531
+TO,67,F,2025-12-11,Almoco,Carboidrato,macarrao,20,80
+RR,42,M,2025-11-13,Almoco,fibra,brocolis,8,16
+ES,58,M,2025-11-20,Jantar,acucar,chocolate,24,96
+RJ,45,F,2026-01-07,Jantar,Carboidrato,cuscuz,33,132
+MG,26,F,2025-12-09,Cafe da manha,Carboidrato,cuscuz,12,48
+PR,51,M,2026-01-27,Lanche,Carboidrato,mandioca,51,204
+DF,34,M,2026-02-05,Jantar,fibra,chia,22,44
+SP,21,M,2025-11-12,Almoco,Carboidrato,macarrao,34,136
+RJ,22,Outro,2026-03-04,Almoco,Carboidrato,cuscuz,86,344
+CE,59,F,2025-11-18,Jantar,fibra,brocolis,67,134
+SE,61,M,2025-12-13,Jantar,fibra,chia,70,140
+TO,26,M,2026-03-12,Lanche,Gordura,queijo,31,279
+BA,59,Outro,2025-10-18,Cafe da manha,Proteina,carne_bovina,13,52
+PE,76,F,2025-11-27,Jantar,fibra,brocolis,29,58
+RS,49,M,2026-01-12,Cafe da manha,Proteina,frango,27,108
+AM,40,Outro,2026-01-22,Almoco,Gordura,azeite,92,828
+GO,44,M,2025-09-27,Lanche,acucar,chocolate,69,276
+AM,29,F,2025-09-23,Lanche,Gordura,manteiga,97,873
+PA,38,M,2025-12-29,Cafe da manha,Gordura,azeite,56,504
+MS,27,M,2026-02-16,Almoco,acucar,biscoito,86,344
+MA,63,F,2026-02-10,Jantar,Carboidrato,macarrao,55,220
+PI,30,F,2025-12-11,Lanche,Gordura,queijo,70,630
+GO,56,M,2025-09-20,Almoco,Gordura,azeite,37,333
+RO,24,M,2026-01-09,Cafe da manha,Gordura,queijo,22,198
+RS,54,Outro,2025-11-16,Almoco,fibra,aveia,10,20
+SC,78,M,2025-12-06,Cafe da manha,Gordura,azeite,30,270
+PI,71,F,2025-10-05,Cafe da manha,Carboidrato,cuscuz,67,268
+CE,39,Outro,2025-10-31,Cafe da manha,Gordura,azeite,85,765
+DF,30,Outro,2026-03-12,Cafe da manha,acucar,biscoito,62,248
+MA,71,Outro,2025-10-22,Almoco,Proteina,feijao,20,80
+RS,18,M,2025-10-31,Jantar,acucar,biscoito,72,288
+RJ,69,M,2026-01-28,Almoco,Proteina,feijao,86,344
+DF,42,F,2026-02-19,Almoco,Gordura,azeite,58,522
+RN,61,M,2025-11-30,Lanche,Gordura,castanhas,30,270
+RN,40,Outro,2025-11-02,Almoco,Proteina,feijao,96,384
+RS,63,M,2025-11-06,Cafe da manha,acucar,chocolate,83,332
+PR,64,Outro,2026-02-11,Lanche,acucar,bolo,70,280
+AP,29,M,2025-11-14,Jantar,Gordura,castanhas,25,225
+AC,31,Outro,2026-01-27,Lanche,fibra,brocolis,14,28
+MG,53,F,2025-09-24,Almoco,Carboidrato,macarrao,47,188
+ES,49,M,2026-01-08,Lanche,acucar,sorvete,84,336
+PA,27,F,2025-11-29,Jantar,Gordura,queijo,56,504
+AL,37,Outro,2025-09-23,Cafe da manha,Proteina,carne_bovina,5,20
+MA,20,M,2025-11-12,Almoco,Proteina,feijao,41,164
+MS,41,Outro,2026-03-03,Cafe da manha,Proteina,frango,3,12
+PR,29,F,2026-03-12,Lanche,Gordura,azeite,47,423
+MT,32,Outro,2026-01-07,Almoco,fibra,linhaca,85,170
+DF,72,F,2026-02-16,Cafe da manha,acucar,refrigerante,45,180
+MS,69,M,2026-01-26,Almoco,fibra,chia,2,4
+MG,71,M,2026-02-04,Almoco,acucar,sorvete,79,316
+RS,20,F,2025-09-21,Cafe da manha,acucar,biscoito,78,312
+DF,25,M,2026-01-06,Cafe da manha,Carboidrato,cuscuz,10,40
+MS,22,Outro,2025-11-07,Cafe da manha,fibra,linhaca,94,188
+PB,39,M,2026-02-03,Almoco,fibra,couve,25,50
+AL,48,Outro,2025-11-14,Cafe da manha,Gordura,castanhas,59,531
+AM,53,M,2025-11-29,Jantar,fibra,chia,16,32
+AM,46,M,2025-11-07,Jantar,Gordura,castanhas,52,468
+PI,80,Outro,2026-02-15,Cafe da manha,Gordura,castanhas,52,468
+BA,18,Outro,2026-02-25,Almoco,Proteina,peixe,12,48
+GO,76,Outro,2025-12-08,Cafe da manha,Proteina,carne_bovina,53,212
+AL,20,Outro,2026-03-04,Cafe da manha,fibra,chia,65,130
+AM,54,Outro,2026-02-02,Almoco,acucar,biscoito,73,292
+DF,44,Outro,2025-12-27,Almoco,Carboidrato,mandioca,63,252
+MS,78,Outro,2025-10-12,Lanche,fibra,chia,68,136
+PE,46,Outro,2026-02-07,Lanche,Carboidrato,mandioca,77,308
+PI,76,F,2026-03-10,Cafe da manha,Gordura,azeite,89,801
+SC,34,F,2025-10-06,Cafe da manha,Proteina,lentilha,3,12
+MG,60,M,2026-03-09,Lanche,Gordura,castanhas,2,18
+PA,50,F,2025-12-09,Lanche,acucar,chocolate,97,388
+DF,31,F,2025-12-11,Almoco,fibra,brocolis,43,86
+MS,45,M,2025-12-16,Lanche,Carboidrato,mandioca,4,16
+RR,61,M,2026-02-22,Lanche,acucar,bolo,31,124
+AC,73,Outro,2026-03-01,Jantar,Carboidrato,batata,96,384
+SC,28,Outro,2025-12-12,Lanche,Proteina,ovos,40,160
+MG,45,M,2026-02-05,Jantar,Gordura,azeite,32,288
+MG,55,Outro,2026-02-26,Jantar,Carboidrato,pao,66,264
+PI,66,F,2025-12-24,Lanche,Proteina,lentilha,67,268
+CE,54,M,2025-10-21,Jantar,fibra,chia,38,76
+AL,49,Outro,2026-03-07,Lanche,Carboidrato,cuscuz,88,352
+ES,79,F,2025-10-23,Lanche,fibra,brocolis,84,168
+SE,34,Outro,2025-11-14,Almoco,Carboidrato,cuscuz,22,88
+MS,28,M,2026-01-02,Almoco,acucar,chocolate,38,152
+PE,23,F,2026-02-08,Jantar,Carboidrato,arroz,94,376
+SP,47,F,2026-02-06,Jantar,Proteina,peixe,3,12
+TO,34,Outro,2025-11-26,Almoco,acucar,bolo,40,160
+BA,77,M,2026-01-17,Lanche,Proteina,ovos,19,76
+AC,18,Outro,2025-12-13,Jantar,acucar,sorvete,51,204
+BA,39,M,2025-10-17,Cafe da manha,Carboidrato,arroz,38,152
+RJ,25,M,2026-01-05,Lanche,Proteina,frango,65,260
+SE,21,Outro,2026-02-08,Jantar,Carboidrato,arroz,57,228
+RS,79,F,2025-09-29,Lanche,acucar,refrigerante,98,392
+AP,46,Outro,2025-09-25,Cafe da manha,Proteina,feijao,39,156
+AM,42,F,2025-11-28,Cafe da manha,acucar,chocolate,48,192
+ES,57,Outro,2025-11-26,Lanche,acucar,sorvete,45,180
+AM,44,M,2025-11-01,Lanche,fibra,aveia,3,6
+MS,48,M,2025-09-26,Jantar,Carboidrato,pao,61,244
+AC,40,F,2025-12-21,Cafe da manha,Proteina,feijao,91,364
+CE,77,M,2026-02-20,Jantar,Gordura,abacate,34,306
+BA,53,M,2025-11-30,Almoco,Gordura,castanhas,10,90
+CE,37,Outro,2026-03-02,Lanche,Proteina,ovos,90,360
+RS,80,Outro,2025-10-18,Almoco,fibra,couve,79,158
+PB,48,F,2026-03-02,Almoco,fibra,chia,72,144
+PA,66,M,2025-10-25,Jantar,Proteina,lentilha,21,84
+MS,44,Outro,2026-02-14,Jantar,Proteina,ovos,24,96
+ES,47,F,2025-12-09,Jantar,fibra,couve,55,110
+RN,72,F,2026-02-19,Almoco,Carboidrato,arroz,4,16
+RJ,52,F,2026-01-27,Lanche,Gordura,azeite,54,486
+ES,20,M,2025-09-23,Jantar,Carboidrato,macarrao,31,124
+SP,78,F,2026-03-08,Jantar,Proteina,ovos,32,128
+PA,66,Outro,2025-10-03,Almoco,acucar,biscoito,12,48
+BA,69,Outro,2025-09-30,Jantar,acucar,chocolate,33,132
+PB,52,Outro,2026-01-01,Almoco,Proteina,frango,85,340
+PA,31,F,2025-10-01,Almoco,Proteina,frango,42,168
+PR,59,F,2025-11-24,Lanche,Carboidrato,batata,87,348
+RS,19,F,2025-10-11,Cafe da manha,fibra,aveia,3,6
+PI,28,F,2026-02-18,Lanche,Gordura,queijo,39,351
+ES,37,F,2025-11-17,Almoco,acucar,biscoito,27,108
+AL,73,F,2025-09-26,Jantar,Gordura,abacate,88,792
+TO,79,Outro,2025-12-24,Jantar,Carboidrato,cuscuz,18,72
+AP,32,Outro,2026-03-09,Cafe da manha,Carboidrato,macarrao,50,200
+RS,59,F,2026-01-04,Lanche,Proteina,lentilha,64,256
+AL,69,Outro,2025-11-04,Jantar,Carboidrato,cuscuz,52,208
+AP,21,F,2025-11-16,Cafe da manha,Carboidrato,cuscuz,91,364
+PE,78,F,2025-12-19,Lanche,Proteina,peixe,36,144
+AP,61,F,2026-02-26,Jantar,Proteina,lentilha,99,396
+RO,52,M,2026-03-03,Lanche,fibra,aveia,94,188
+RO,73,Outro,2026-02-12,Cafe da manha,acucar,bolo,100,400
+MG,66,M,2025-09-19,Jantar,Carboidrato,macarrao,8,32
+AC,73,Outro,2025-11-01,Almoco,Gordura,manteiga,16,144
+DF,58,F,2026-01-17,Cafe da manha,Carboidrato,batata,77,308
+RR,39,Outro,2026-02-16,Lanche,acucar,chocolate,0,0
+MT,24,Outro,2026-02-20,Jantar,acucar,refrigerante,6,24
+AC,33,M,2026-02-05,Almoco,Carboidrato,pao,27,108
+PB,60,F,2025-11-25,Lanche,Carboidrato,mandioca,32,128
+PE,24,F,2026-03-07,Lanche,Carboidrato,batata,79,316
+AP,35,F,2026-03-09,Jantar,acucar,chocolate,36,144
+MT,26,F,2025-12-27,Almoco,fibra,brocolis,59,118
+MG,53,M,2026-01-13,Almoco,Gordura,queijo,96,864
+TO,34,Outro,2025-12-18,Jantar,acucar,sorvete,67,268
+SP,59,M,2025-09-23,Cafe da manha,Carboidrato,arroz,34,136
+BA,56,Outro,2025-11-12,Lanche,fibra,linhaca,80,160
+RR,50,F,2025-10-08,Lanche,Carboidrato,cuscuz,48,192
+AP,29,F,2025-11-16,Jantar,acucar,bolo,64,256
+RN,70,M,2026-01-30,Lanche,fibra,brocolis,23,46
+SP,51,M,2025-10-10,Lanche,fibra,linhaca,10,20
+MG,58,M,2025-12-04,Lanche,fibra,couve,89,178
+ES,33,M,2025-10-17,Cafe da manha,fibra,couve,62,124
+TO,45,F,2025-10-23,Lanche,fibra,couve,24,48
+MT,21,F,2026-01-28,Almoco,Carboidrato,macarrao,64,256
+PE,26,Outro,2025-09-18,Almoco,acucar,sorvete,8,32
+AM,54,F,2025-11-26,Jantar,Proteina,peixe,0,0
+PB,28,M,2026-02-06,Cafe da manha,fibra,couve,59,118
+AL,75,F,2025-10-31,Lanche,Gordura,azeite,43,387
+PB,39,Outro,2025-12-12,Cafe da manha,fibra,chia,37,74
+PB,76,M,2025-11-25,Lanche,Proteina,feijao,56,224
+PA,78,M,2025-12-30,Cafe da manha,Proteina,peixe,50,200
+GO,36,F,2025-10-21,Almoco,acucar,biscoito,40,160
+AC,55,Outro,2025-11-25,Lanche,Proteina,carne_bovina,20,80
+CE,66,M,2025-12-15,Jantar,Gordura,azeite,17,153
+SE,53,F,2026-02-24,Almoco,Gordura,castanhas,65,585
+RJ,25,F,2026-03-09,Almoco,fibra,brocolis,76,152
+PA,39,M,2026-01-30,Jantar,Gordura,queijo,52,468
+RN,66,M,2025-10-21,Cafe da manha,acucar,chocolate,47,188
+RO,18,M,2026-02-27,Cafe da manha,fibra,aveia,3,6
+SC,36,F,2025-12-24,Cafe da manha,Proteina,ovos,34,136
+PI,53,Outro,2025-11-15,Lanche,Proteina,ovos,60,240
+PB,77,M,2026-02-16,Cafe da manha,fibra,aveia,42,84
+AC,41,M,2025-12-22,Cafe da manha,Gordura,queijo,51,459
+BA,19,M,2026-01-03,Jantar,fibra,aveia,25,50
+TO,44,Outro,2025-10-24,Lanche,acucar,biscoito,71,284
+PI,67,F,2025-11-03,Almoco,fibra,aveia,46,92
+PA,68,F,2025-10-28,Cafe da manha,Carboidrato,mandioca,7,28
+PB,55,Outro,2025-10-20,Jantar,Gordura,azeite,39,351
+TO,30,M,2025-10-22,Jantar,fibra,linhaca,25,50
+BA,58,F,2026-01-31,Lanche,acucar,biscoito,63,252
+GO,29,Outro,2026-01-12,Lanche,fibra,linhaca,68,136
+RJ,35,F,2025-12-27,Almoco,Carboidrato,arroz,86,344
+SP,77,F,2026-03-08,Cafe da manha,Gordura,queijo,69,621
+SE,36,M,2025-10-13,Jantar,acucar,bolo,10,40
+SC,36,M,2025-10-02,Almoco,Gordura,manteiga,70,630
+MG,64,F,2025-11-19,Jantar,Carboidrato,arroz,30,120
+AC,23,M,2025-12-29,Lanche,fibra,chia,52,104
+RO,54,M,2025-12-19,Cafe da manha,acucar,refrigerante,22,88
+MS,45,F,2025-09-28,Lanche,Gordura,castanhas,97,873
+DF,33,M,2026-03-14,Almoco,Proteina,carne_bovina,47,188
+MG,71,M,2025-12-16,Lanche,Gordura,azeite,72,648
+MG,69,Outro,2025-09-21,Lanche,Gordura,abacate,77,693
+AC,33,Outro,2026-01-02,Cafe da manha,Gordura,abacate,83,747
+RJ,78,Outro,2026-01-18,Cafe da manha,fibra,linhaca,34,68
+SP,65,F,2025-10-15,Jantar,fibra,brocolis,25,50
+RN,23,Outro,2025-12-28,Almoco,fibra,brocolis,21,42
+AC,51,M,2025-10-28,Lanche,Carboidrato,mandioca,92,368
+AM,19,F,2025-11-17,Almoco,Proteina,carne_bovina,72,288
+PI,20,F,2026-01-29,Lanche,fibra,couve,2,4
+RO,33,F,2026-03-06,Lanche,acucar,bolo,90,360
+RO,80,M,2026-02-22,Cafe da manha,Proteina,frango,62,248
+GO,31,Outro,2025-11-13,Lanche,acucar,bolo,40,160
+AL,69,Outro,2025-12-23,Lanche,Carboidrato,batata,9,36
+DF,55,M,2026-03-11,Cafe da manha,Gordura,azeite,3,27
+RN,18,F,2025-12-25,Almoco,fibra,linhaca,24,48
+TO,20,Outro,2025-11-21,Cafe da manha,acucar,chocolate,14,56
+MA,66,Outro,2026-02-09,Almoco,acucar,biscoito,83,332
+PA,40,M,2026-02-19,Cafe da manha,Gordura,queijo,58,522
+PA,72,F,2025-12-24,Almoco,acucar,refrigerante,85,340
+MS,25,M,2025-09-29,Lanche,Proteina,frango,76,304
+BA,24,F,2025-10-18,Cafe da manha,fibra,aveia,82,164
+PI,55,M,2025-09-26,Jantar,Gordura,abacate,33,297
+ES,20,Outro,2025-09-21,Lanche,acucar,refrigerante,88,352
+AC,24,F,2026-02-17,Lanche,fibra,couve,51,102
+RJ,33,F,2025-11-21,Almoco,Gordura,queijo,42,378
+RO,18,M,2026-02-27,Cafe da manha,Gordura,queijo,8,72
+AC,59,M,2025-12-20,Jantar,Proteina,frango,25,100
+AC,78,M,2025-10-30,Cafe da manha,Proteina,peixe,72,288
+RO,23,Outro,2025-12-20,Cafe da manha,acucar,refrigerante,16,64
+CE,41,M,2025-12-14,Jantar,acucar,refrigerante,31,124
+RR,44,F,2026-02-19,Jantar,Proteina,ovos,45,180
+TO,23,Outro,2026-03-04,Lanche,Gordura,castanhas,30,270
+AM,52,Outro,2025-10-11,Jantar,fibra,couve,61,122
+MS,77,M,2026-03-08,Jantar,Proteina,carne_bovina,62,248
+PI,59,F,2026-01-29,Almoco,Proteina,carne_bovina,79,316
+SE,20,Outro,2025-11-25,Jantar,Gordura,manteiga,18,162
+MT,25,F,2025-11-09,Jantar,Carboidrato,arroz,59,236
+CE,50,F,2025-10-16,Jantar,Gordura,abacate,1,9
+SC,40,Outro,2026-01-21,Cafe da manha,Gordura,manteiga,73,657
+MG,38,M,2026-01-11,Cafe da manha,Gordura,castanhas,58,522
+RS,35,Outro,2025-09-29,Lanche,fibra,brocolis,8,16
+ES,58,Outro,2025-12-13,Jantar,Carboidrato,pao,28,112
+MA,74,F,2025-10-03,Lanche,acucar,refrigerante,11,44
+MG,48,M,2026-01-13,Lanche,acucar,biscoito,65,260
+PB,49,Outro,2025-10-09,Cafe da manha,Proteina,peixe,35,140
+ES,73,Outro,2025-09-20,Cafe da manha,Gordura,abacate,23,207
+SC,65,M,2026-01-05,Cafe da manha,Carboidrato,cuscuz,23,92
+SE,38,M,2025-11-24,Almoco,Carboidrato,cuscuz,54,216
+AL,59,Outro,2026-02-16,Jantar,Proteina,lentilha,91,364
+SC,53,Outro,2025-10-06,Almoco,Carboidrato,mandioca,87,348
+ES,50,F,2025-11-14,Jantar,Carboidrato,pao,1,4
+MT,75,Outro,2025-12-10,Jantar,fibra,aveia,38,76
+AP,59,M,2025-10-21,Almoco,Gordura,manteiga,13,117
+AC,57,Outro,2025-10-17,Jantar,Proteina,lentilha,17,68
+AM,58,F,2026-02-13,Cafe da manha,Gordura,manteiga,93,837
+RR,73,Outro,2025-11-17,Almoco,fibra,aveia,48,96
+MA,38,M,2026-01-02,Jantar,Gordura,abacate,36,324
+SE,35,F,2025-11-27,Lanche,Gordura,manteiga,97,873
+MS,32,Outro,2025-11-16,Cafe da manha,Gordura,abacate,42,378
+PR,30,F,2026-01-16,Jantar,Proteina,frango,37,148
+AM,65,M,2026-02-19,Lanche,Carboidrato,pao,53,212
+RS,60,F,2025-12-21,Cafe da manha,fibra,brocolis,73,146
+PE,48,M,2025-10-25,Lanche,Gordura,manteiga,52,468
+MS,39,Outro,2025-12-02,Almoco,Proteina,lentilha,42,168
+CE,29,F,2026-03-04,Lanche,Gordura,abacate,10,90
+CE,55,Outro,2025-12-14,Cafe da manha,Gordura,manteiga,25,225
+RR,40,M,2025-11-25,Cafe da manha,Proteina,carne_bovina,56,224
+RR,24,Outro,2025-09-23,Lanche,Proteina,peixe,72,288
+PB,44,M,2026-02-17,Jantar,Proteina,peixe,69,276
+MS,40,F,2025-09-18,Lanche,fibra,brocolis,3,6
+MG,44,Outro,2025-10-09,Cafe da manha,Carboidrato,arroz,38,152
+ES,54,Outro,2026-02-28,Jantar,Gordura,manteiga,43,387
+TO,50,M,2026-01-25,Cafe da manha,Proteina,ovos,64,256
+SC,49,F,2026-01-09,Lanche,acucar,bolo,79,316
+PE,34,Outro,2026-01-19,Lanche,Gordura,castanhas,53,477
+RN,46,Outro,2026-03-05,Cafe da manha,fibra,aveia,86,172
+SC,38,F,2025-12-14,Jantar,Gordura,manteiga,10,90
+RN,47,F,2025-11-21,Jantar,fibra,brocolis,69,138
+AL,75,F,2025-11-07,Cafe da manha,Gordura,manteiga,66,594
+PR,29,Outro,2026-01-30,Lanche,fibra,brocolis,61,122
+MA,22,Outro,2025-12-30,Lanche,Proteina,feijao,30,120
+RO,80,F,2025-10-19,Cafe da manha,Proteina,feijao,8,32
+TO,75,Outro,2025-09-16,Lanche,fibra,aveia,26,52
+MA,39,M,2026-03-09,Cafe da manha,Carboidrato,cuscuz,97,388
+PB,33,Outro,2026-02-28,Lanche,fibra,brocolis,63,126
+SC,43,Outro,2026-02-02,Lanche,fibra,couve,87,174
+MG,31,M,2025-11-11,Cafe da manha,Gordura,castanhas,21,189
+MT,50,M,2025-11-10,Jantar,Carboidrato,batata,68,272
+AL,80,F,2025-11-11,Cafe da manha,acucar,chocolate,44,176
+AP,26,F,2025-10-08,Jantar,fibra,chia,48,96
+GO,66,M,2026-03-01,Jantar,acucar,chocolate,62,248
+SE,25,M,2025-12-01,Almoco,acucar,bolo,75,300
+AP,76,M,2025-10-23,Cafe da manha,acucar,chocolate,54,216
+RR,38,M,2025-10-23,Almoco,acucar,sorvete,44,176
+RJ,65,Outro,2025-11-03,Cafe da manha,acucar,sorvete,50,200
+MA,77,M,2026-01-17,Lanche,Gordura,azeite,49,441
+RS,42,Outro,2026-01-11,Cafe da manha,Gordura,manteiga,91,819
+CE,35,M,2026-01-31,Cafe da manha,Gordura,abacate,88,792
+SP,18,M,2025-10-15,Jantar,fibra,chia,1,2
+MT,19,M,2025-10-02,Lanche,Proteina,ovos,28,112
+PR,34,M,2025-10-26,Almoco,fibra,linhaca,44,88
+PE,66,F,2026-01-22,Jantar,Carboidrato,mandioca,2,8
+MS,46,F,2025-11-19,Cafe da manha,fibra,aveia,86,172
+MA,29,F,2025-11-30,Jantar,Proteina,peixe,39,156
+RR,28,Outro,2025-10-20,Lanche,Proteina,peixe,5,20
+PR,19,F,2025-11-20,Cafe da manha,Gordura,castanhas,53,477
+RO,80,Outro,2026-01-21,Jantar,fibra,linhaca,7,14
+AP,25,Outro,2025-12-25,Cafe da manha,Gordura,queijo,97,873
+MT,61,M,2025-11-27,Lanche,Proteina,ovos,59,236
+SE,56,Outro,2025-12-20,Lanche,Gordura,manteiga,42,378
+SP,59,M,2026-02-23,Cafe da manha,Carboidrato,arroz,36,144
+MG,51,F,2025-12-11,Almoco,Proteina,peixe,56,224
+SE,63,Outro,2026-01-03,Lanche,acucar,refrigerante,14,56
+MG,67,F,2026-03-04,Lanche,Carboidrato,macarrao,73,292
+RR,47,M,2026-03-08,Lanche,Proteina,frango,51,204
+GO,49,Outro,2026-01-04,Lanche,Gordura,queijo,87,783
+RO,49,Outro,2025-11-20,Jantar,fibra,linhaca,53,106
+RN,61,F,2026-03-06,Lanche,Gordura,abacate,82,738
+AM,37,Outro,2025-12-16,Cafe da manha,fibra,aveia,81,162
+AC,58,F,2025-12-10,Almoco,fibra,aveia,84,168
+DF,76,M,2025-09-26,Jantar,acucar,chocolate,99,396
+AM,48,Outro,2026-01-05,Almoco,fibra,chia,20,40
+BA,63,Outro,2025-09-21,Jantar,Gordura,abacate,54,486
+SE,23,M,2026-01-07,Cafe da manha,acucar,chocolate,39,156
+PI,27,F,2025-10-02,Jantar,acucar,sorvete,86,344
+MS,48,F,2026-01-08,Lanche,fibra,brocolis,76,152
+SE,26,F,2026-02-06,Jantar,Proteina,frango,23,92
+RN,65,F,2025-12-16,Lanche,acucar,sorvete,38,152
+RN,45,M,2026-01-07,Lanche,Carboidrato,mandioca,36,144
+AM,58,Outro,2026-03-02,Lanche,Proteina,frango,13,52
+GO,34,F,2025-11-22,Jantar,acucar,refrigerante,10,40
+BA,46,Outro,2025-12-18,Almoco,fibra,brocolis,94,188
+PB,52,F,2025-11-18,Lanche,Carboidrato,mandioca,77,308
+GO,19,F,2026-02-24,Jantar,Carboidrato,macarrao,11,44
+MG,35,F,2025-11-29,Almoco,acucar,refrigerante,72,288
+SE,49,F,2025-09-18,Cafe da manha,Gordura,abacate,94,846
+BA,43,M,2026-01-17,Cafe da manha,Carboidrato,macarrao,63,252
+PE,22,F,2025-10-21,Lanche,Gordura,manteiga,61,549
+RR,29,F,2025-12-08,Cafe da manha,fibra,aveia,2,4
+PE,67,M,2026-02-11,Lanche,Carboidrato,pao,12,48
+MT,59,Outro,2026-02-16,Jantar,Carboidrato,batata,14,56
+MS,21,M,2025-10-27,Cafe da manha,Gordura,azeite,41,369
+RN,55,M,2026-01-07,Jantar,fibra,aveia,65,130
+TO,58,M,2025-12-17,Almoco,Gordura,castanhas,3,27
+ES,51,Outro,2025-12-05,Cafe da manha,Carboidrato,mandioca,65,260
+GO,18,M,2026-02-14,Lanche,acucar,sorvete,5,20
+PR,39,Outro,2025-10-07,Jantar,acucar,bolo,92,368
+MA,66,F,2025-12-01,Jantar,Gordura,manteiga,27,243
+MS,25,F,2025-10-04,Lanche,Carboidrato,macarrao,71,284
+PI,74,F,2025-12-18,Jantar,acucar,biscoito,65,260
+SP,74,M,2026-02-12,Lanche,fibra,aveia,63,126
+BA,41,M,2025-12-06,Lanche,Gordura,azeite,10,90
+SE,44,M,2026-03-13,Jantar,fibra,brocolis,54,108
+AM,69,M,2025-12-30,Almoco,fibra,linhaca,66,132
+PI,29,F,2025-10-01,Almoco,Proteina,peixe,8,32
+AP,30,M,2025-09-28,Almoco,Carboidrato,mandioca,59,236
+ES,69,F,2025-12-18,Cafe da manha,fibra,couve,82,164
+MG,43,Outro,2025-12-21,Lanche,acucar,biscoito,70,280
+MA,21,M,2026-02-11,Almoco,Gordura,azeite,17,153
+PR,41,F,2025-11-25,Cafe da manha,Proteina,ovos,23,92
+MG,40,M,2026-02-24,Jantar,acucar,bolo,67,268
+GO,39,F,2025-10-16,Lanche,acucar,refrigerante,55,220
+SC,79,F,2026-02-23,Jantar,fibra,linhaca,80,160
+SC,52,Outro,2025-10-17,Cafe da manha,fibra,chia,80,160
+GO,20,Outro,2026-01-05,Lanche,Proteina,ovos,9,36
+RR,29,F,2025-11-23,Cafe da manha,Carboidrato,batata,45,180
+PR,26,Outro,2025-11-06,Cafe da manha,Proteina,feijao,72,288
+PI,50,F,2026-01-02,Cafe da manha,acucar,sorvete,23,92
+AL,20,F,2025-11-05,Almoco,Gordura,castanhas,91,819
+SP,24,M,2025-12-15,Jantar,fibra,linhaca,90,180
+AM,32,M,2025-10-12,Jantar,acucar,sorvete,67,268
+DF,24,F,2026-02-24,Lanche,fibra,brocolis,50,100
+SC,26,Outro,2026-02-09,Almoco,Carboidrato,arroz,65,260
+MT,30,M,2025-09-30,Lanche,Gordura,abacate,25,225
+SP,50,Outro,2025-10-16,Cafe da manha,Gordura,castanhas,62,558
+RS,76,F,2025-11-15,Almoco,acucar,biscoito,27,108
+RN,45,Outro,2026-02-16,Jantar,Gordura,manteiga,12,108
+RN,74,F,2026-02-23,Lanche,fibra,chia,32,64
+RO,64,Outro,2026-01-31,Lanche,acucar,refrigerante,84,336
+RO,25,F,2025-10-25,Almoco,fibra,couve,1,2
+PA,54,Outro,2026-02-28,Jantar,Proteina,ovos,65,260
+RO,38,Outro,2026-01-14,Lanche,Gordura,manteiga,57,513
+MS,71,M,2025-09-27,Jantar,Gordura,azeite,80,720
+MG,19,M,2025-10-29,Lanche,fibra,linhaca,57,114
+AP,39,F,2025-12-07,Jantar,Gordura,queijo,83,747
+RN,70,Outro,2025-12-05,Lanche,fibra,chia,75,150
+SC,45,Outro,2025-12-23,Cafe da manha,Gordura,abacate,38,342
+SP,79,Outro,2025-12-01,Lanche,acucar,refrigerante,76,304
+RR,42,F,2025-11-20,Almoco,Gordura,manteiga,43,387
+ES,54,M,2026-02-27,Lanche,Proteina,peixe,70,280
+ES,69,F,2025-10-10,Lanche,fibra,aveia,84,168
+PI,30,Outro,2025-10-01,Jantar,Proteina,lentilha,46,184
+MG,68,F,2025-11-28,Cafe da manha,acucar,biscoito,11,44
+SP,49,Outro,2025-10-27,Cafe da manha,Carboidrato,cuscuz,68,272
+ES,42,M,2026-02-25,Almoco,Gordura,castanhas,28,252
+SP,61,M,2026-02-13,Jantar,Gordura,queijo,62,558
+CE,40,M,2025-11-26,Almoco,Carboidrato,batata,73,292
+AM,40,Outro,2025-10-31,Almoco,acucar,chocolate,80,320
+RO,35,Outro,2025-09-20,Cafe da manha,acucar,sorvete,67,268
+AC,65,F,2026-02-24,Jantar,Proteina,feijao,52,208
+SP,62,M,2025-11-05,Cafe da manha,Gordura,manteiga,78,702
+RJ,65,F,2025-11-24,Cafe da manha,Proteina,frango,29,116
+AL,71,M,2025-09-26,Lanche,acucar,sorvete,87,348
+SE,44,Outro,2025-11-12,Cafe da manha,acucar,sorvete,32,128
+MG,19,F,2025-11-26,Cafe da manha,Gordura,queijo,77,693
+GO,32,Outro,2025-11-26,Almoco,acucar,biscoito,1,4
+RN,54,M,2026-01-14,Lanche,fibra,linhaca,57,114
+AC,26,Outro,2025-10-23,Lanche,Gordura,queijo,67,603
+RS,59,Outro,2026-03-02,Lanche,Proteina,ovos,59,236
+AL,40,M,2026-02-04,Jantar,Proteina,frango,40,160
+AP,60,M,2025-10-10,Almoco,Gordura,abacate,56,504
+SC,64,M,2025-09-27,Almoco,Gordura,azeite,28,252
+CE,61,Outro,2025-09-19,Almoco,Proteina,ovos,32,128
+RO,78,F,2025-12-19,Almoco,fibra,aveia,93,186
+PA,76,M,2026-01-26,Jantar,Carboidrato,macarrao,40,160
+MT,71,F,2026-01-14,Lanche,acucar,chocolate,42,168
+AM,32,M,2026-02-11,Almoco,acucar,chocolate,83,332
+DF,51,M,2026-01-17,Jantar,fibra,linhaca,7,14
+DF,70,Outro,2025-12-30,Cafe da manha,acucar,biscoito,80,320
+DF,70,M,2025-12-15,Almoco,acucar,sorvete,63,252
+RN,64,F,2026-03-06,Jantar,Carboidrato,pao,55,220
+DF,51,F,2025-10-11,Lanche,Proteina,feijao,0,0
+MS,70,Outro,2026-01-15,Jantar,acucar,chocolate,58,232
+MS,52,Outro,2025-10-10,Cafe da manha,Gordura,azeite,58,522
+AC,52,M,2025-11-28,Almoco,acucar,biscoito,73,292
+ES,36,F,2026-02-19,Cafe da manha,fibra,linhaca,88,176
+BA,65,F,2026-01-07,Lanche,acucar,refrigerante,4,16
+MS,39,M,2026-02-09,Almoco,fibra,linhaca,100,200
+RJ,28,F,2025-11-18,Cafe da manha,Gordura,queijo,39,351
+SE,49,F,2025-11-25,Jantar,Gordura,castanhas,81,729
+RS,80,M,2025-12-16,Almoco,Gordura,manteiga,86,774
+RJ,61,M,2025-12-19,Jantar,acucar,bolo,35,140
+TO,28,M,2025-11-21,Jantar,acucar,chocolate,46,184
+RO,23,F,2025-10-18,Lanche,Carboidrato,pao,18,72
+MG,54,F,2026-03-04,Jantar,Proteina,feijao,36,144
+SE,50,M,2026-01-10,Cafe da manha,acucar,refrigerante,88,352
+RN,20,M,2025-12-08,Lanche,Proteina,feijao,66,264
+DF,50,F,2025-11-25,Lanche,Proteina,ovos,41,164
+PA,79,F,2025-11-02,Almoco,Carboidrato,cuscuz,64,256
+RJ,70,M,2026-03-08,Lanche,Proteina,ovos,8,32
+MS,25,Outro,2025-12-21,Jantar,Carboidrato,macarrao,94,376
+PR,46,Outro,2026-03-11,Lanche,acucar,sorvete,60,240
+BA,36,F,2026-01-27,Lanche,fibra,aveia,90,180
+DF,26,F,2026-01-04,Almoco,Carboidrato,pao,44,176
+SE,47,M,2025-11-20,Jantar,Proteina,ovos,95,380
+AM,66,Outro,2026-03-03,Cafe da manha,fibra,brocolis,36,72
+PA,43,M,2025-09-20,Lanche,acucar,biscoito,29,116
+AC,24,Outro,2026-01-20,Almoco,acucar,refrigerante,27,108
+GO,50,Outro,2026-02-12,Cafe da manha,fibra,couve,88,176
+SE,24,Outro,2025-11-07,Lanche,Proteina,ovos,75,300
+AC,67,Outro,2025-10-22,Almoco,Gordura,abacate,17,153
+PB,53,F,2026-01-04,Lanche,fibra,linhaca,72,144
+RR,63,Outro,2025-09-22,Almoco,acucar,sorvete,32,128
+MG,75,Outro,2025-12-26,Jantar,Carboidrato,arroz,35,140
+RS,23,Outro,2026-02-27,Almoco,Gordura,castanhas,87,783
+MT,60,Outro,2026-01-05,Cafe da manha,fibra,aveia,47,94
+BA,28,F,2025-10-19,Almoco,fibra,linhaca,72,144
+RR,56,F,2025-12-12,Cafe da manha,acucar,bolo,25,100
+AP,43,F,2025-10-18,Jantar,Gordura,abacate,46,414
+BA,64,Outro,2026-03-01,Almoco,Proteina,carne_bovina,14,56
+AP,28,M,2026-01-24,Jantar,Gordura,queijo,0,0
+MS,46,F,2026-02-28,Jantar,Proteina,frango,0,0
+PB,52,M,2025-11-28,Cafe da manha,acucar,refrigerante,60,240
+MS,34,M,2025-10-05,Almoco,Proteina,ovos,55,220
+MT,51,F,2025-11-29,Lanche,acucar,refrigerante,27,108
+CE,73,Outro,2025-10-22,Almoco,Gordura,azeite,40,360
+RO,76,F,2025-10-15,Almoco,Gordura,castanhas,85,765
+PR,51,Outro,2026-01-29,Jantar,Proteina,lentilha,34,136
+PI,35,F,2025-12-06,Almoco,fibra,chia,5,10
+TO,52,F,2026-03-12,Jantar,Gordura,azeite,28,252
+PE,59,F,2026-01-18,Lanche,acucar,chocolate,17,68
+TO,30,Outro,2025-12-06,Almoco,acucar,refrigerante,72,288
+PI,41,F,2025-10-31,Cafe da manha,Carboidrato,mandioca,22,88
+PR,40,M,2026-02-08,Cafe da manha,fibra,brocolis,42,84
+RO,34,Outro,2025-10-08,Lanche,Proteina,carne_bovina,68,272
+PR,73,M,2026-02-19,Cafe da manha,acucar,sorvete,47,188
+MS,54,F,2026-01-23,Jantar,Proteina,peixe,41,164
+MG,74,Outro,2025-12-24,Jantar,Carboidrato,mandioca,99,396
+RR,42,M,2026-01-24,Almoco,Proteina,frango,28,112
+PE,54,M,2026-02-04,Cafe da manha,Carboidrato,macarrao,85,340
+PR,59,M,2026-01-11,Almoco,fibra,chia,71,142
+PA,57,Outro,2026-02-16,Cafe da manha,acucar,chocolate,1,4
+AP,80,F,2026-01-30,Lanche,Carboidrato,mandioca,51,204
+BA,76,F,2025-10-30,Cafe da manha,Gordura,castanhas,97,873
+SE,61,Outro,2025-11-27,Jantar,acucar,refrigerante,22,88
+PB,50,F,2025-12-05,Lanche,Gordura,manteiga,90,810
+ES,29,M,2025-11-20,Cafe da manha,acucar,refrigerante,26,104
+SC,20,F,2025-09-24,Jantar,Proteina,feijao,60,240
+AP,36,Outro,2025-09-26,Jantar,Gordura,manteiga,2,18
+RR,26,Outro,2026-01-31,Lanche,fibra,aveia,80,160
+PR,56,M,2025-11-14,Almoco,acucar,bolo,14,56
+GO,78,M,2026-02-14,Almoco,Proteina,frango,8,32
+BA,74,F,2025-11-01,Lanche,fibra,chia,78,156
+RN,18,M,2025-12-13,Cafe da manha,acucar,sorvete,9,36
+RJ,73,Outro,2025-10-10,Cafe da manha,fibra,chia,1,2
+RN,63,M,2026-01-07,Jantar,Proteina,feijao,97,388
+RR,35,Outro,2025-12-19,Lanche,Gordura,manteiga,71,639
+AL,26,Outro,2025-12-26,Almoco,Proteina,carne_bovina,98,392
+SC,79,F,2025-10-17,Almoco,acucar,sorvete,53,212
+PA,24,Outro,2025-10-08,Jantar,Carboidrato,cuscuz,98,392
+GO,43,M,2025-12-27,Lanche,acucar,refrigerante,56,224
+RJ,79,Outro,2025-12-27,Lanche,fibra,aveia,28,56
+ES,19,F,2026-01-02,Jantar,acucar,refrigerante,58,232
+RN,40,M,2025-12-15,Lanche,fibra,linhaca,80,160
+BA,67,F,2026-01-06,Lanche,acucar,biscoito,84,336
+TO,79,M,2025-12-16,Cafe da manha,Proteina,frango,56,224
+SE,56,M,2025-11-16,Cafe da manha,acucar,biscoito,68,272
+MG,25,M,2025-09-21,Jantar,Carboidrato,macarrao,52,208
+PB,27,M,2025-11-10,Almoco,Proteina,ovos,27,108
+MG,57,F,2026-02-28,Almoco,fibra,couve,27,54
+SC,62,Outro,2025-10-21,Lanche,acucar,biscoito,35,140
+RJ,31,F,2026-02-16,Lanche,fibra,brocolis,47,94
+CE,34,Outro,2025-10-12,Lanche,acucar,biscoito,39,156
+GO,22,Outro,2025-09-27,Almoco,Proteina,peixe,3,12
+AP,28,Outro,2025-10-18,Jantar,acucar,refrigerante,53,212
+SE,45,M,2025-10-02,Lanche,fibra,aveia,87,174
+DF,70,M,2025-10-16,Cafe da manha,acucar,refrigerante,19,76
+SP,72,F,2025-12-22,Almoco,Carboidrato,macarrao,17,68
+BA,41,M,2025-10-18,Cafe da manha,fibra,linhaca,54,108
+SP,56,M,2025-11-13,Lanche,Carboidrato,batata,38,152
+PA,44,Outro,2026-01-06,Jantar,Carboidrato,arroz,43,172
+AC,26,M,2026-01-28,Lanche,Proteina,carne_bovina,16,64
+AP,22,M,2025-10-11,Almoco,Carboidrato,pao,44,176
+AL,21,M,2025-11-13,Almoco,Carboidrato,batata,58,232
+MG,46,F,2025-10-03,Cafe da manha,fibra,couve,74,148
+PI,48,M,2025-11-09,Jantar,Carboidrato,arroz,62,248
+AC,69,M,2025-12-24,Almoco,acucar,chocolate,96,384
+SE,63,F,2025-11-11,Jantar,Proteina,lentilha,20,80
+PI,64,F,2025-11-23,Cafe da manha,Proteina,lentilha,95,380
+AM,46,M,2025-10-13,Jantar,fibra,linhaca,27,54
+MA,69,M,2025-10-16,Lanche,Gordura,manteiga,11,99
+AL,26,Outro,2025-12-18,Cafe da manha,Proteina,peixe,19,76
+PI,41,F,2026-02-16,Lanche,Proteina,feijao,91,364
+RJ,54,M,2025-12-27,Almoco,Proteina,lentilha,25,100
+ES,48,M,2026-01-24,Lanche,acucar,biscoito,8,32
+SP,25,F,2026-02-02,Cafe da manha,fibra,chia,97,194
+SC,22,Outro,2025-10-13,Almoco,Gordura,queijo,57,513
+MG,23,M,2025-10-12,Lanche,Gordura,manteiga,42,378
+MS,31,F,2025-12-27,Jantar,acucar,bolo,29,116
+AC,23,M,2026-02-22,Lanche,Proteina,feijao,44,176
+AM,22,Outro,2025-10-02,Jantar,Carboidrato,arroz,80,320
+RO,70,M,2025-10-05,Almoco,Proteina,carne_bovina,68,272
+SC,41,M,2025-10-27,Almoco,Proteina,peixe,31,124
+SE,18,M,2025-11-03,Jantar,Gordura,queijo,43,387
+GO,27,F,2025-11-12,Jantar,Carboidrato,mandioca,19,76
+PA,38,F,2026-01-28,Cafe da manha,Proteina,feijao,30,120
+MT,56,Outro,2025-11-23,Almoco,Gordura,queijo,12,108
+AL,66,F,2026-01-30,Cafe da manha,acucar,refrigerante,48,192
+RN,65,M,2026-01-04,Almoco,Proteina,carne_bovina,82,328
+ES,25,Outro,2026-01-03,Lanche,Proteina,carne_bovina,91,364
+PI,75,M,2026-02-21,Cafe da manha,Carboidrato,cuscuz,93,372
+AM,47,Outro,2026-02-12,Jantar,Gordura,azeite,41,369
+GO,53,F,2026-02-04,Jantar,acucar,sorvete,97,388
+TO,34,Outro,2025-11-01,Almoco,Gordura,abacate,44,396
+PI,32,F,2026-02-24,Jantar,Proteina,ovos,84,336
+RO,42,M,2026-02-16,Almoco,Proteina,peixe,46,184
+ES,76,M,2025-12-16,Almoco,Carboidrato,cuscuz,83,332
+SP,73,Outro,2026-02-23,Almoco,Proteina,frango,100,400
+AC,39,M,2025-11-23,Cafe da manha,Proteina,feijao,59,236
+DF,21,Outro,2025-12-10,Almoco,Gordura,azeite,92,828
+SC,67,Outro,2025-10-01,Cafe da manha,acucar,refrigerante,31,124
+MG,18,Outro,2026-01-05,Jantar,Carboidrato,mandioca,0,0
+DF,40,M,2026-02-28,Almoco,Gordura,abacate,4,36
+MA,30,M,2026-01-16,Cafe da manha,acucar,sorvete,60,240
+MT,69,M,2026-02-09,Almoco,acucar,chocolate,94,376
+RJ,42,M,2025-10-10,Almoco,Proteina,lentilha,35,140
+DF,31,M,2025-11-22,Almoco,Gordura,abacate,88,792
+SP,44,Outro,2025-10-06,Almoco,Carboidrato,macarrao,25,100
+SE,41,M,2025-10-09,Jantar,acucar,biscoito,76,304
+RN,55,Outro,2025-11-25,Jantar,fibra,aveia,100,200
+AL,40,F,2025-12-25,Jantar,Carboidrato,pao,60,240
+RN,34,Outro,2025-12-16,Jantar,Proteina,frango,99,396
+SE,28,M,2025-11-23,Lanche,fibra,linhaca,71,142
+PI,57,Outro,2025-12-23,Jantar,Gordura,manteiga,64,576
+ES,70,F,2026-03-04,Lanche,fibra,chia,45,90
+MG,26,Outro,2026-02-07,Almoco,Proteina,ovos,37,148
+RJ,48,Outro,2025-09-23,Almoco,Carboidrato,mandioca,59,236
+RN,21,Outro,2025-09-28,Cafe da manha,Carboidrato,arroz,50,200
+RJ,28,M,2026-02-24,Almoco,Gordura,manteiga,71,639
+RS,62,M,2025-09-20,Almoco,fibra,chia,40,80
+BA,22,M,2025-10-28,Cafe da manha,Gordura,manteiga,47,423
+AP,39,F,2025-09-18,Almoco,fibra,brocolis,33,66
+PE,48,Outro,2025-10-01,Almoco,Gordura,castanhas,31,279
+SP,70,Outro,2025-12-20,Jantar,acucar,bolo,71,284
+PI,48,M,2025-10-26,Cafe da manha,Proteina,feijao,88,352
+MG,43,Outro,2025-11-26,Almoco,Proteina,feijao,51,204
+SE,42,M,2025-11-01,Jantar,Proteina,frango,63,252
+SC,37,Outro,2025-11-02,Jantar,Carboidrato,arroz,38,152
+AP,74,M,2025-12-05,Cafe da manha,Proteina,carne_bovina,9,36
+PA,31,F,2025-10-27,Jantar,Proteina,feijao,2,8
+MG,72,F,2025-12-22,Cafe da manha,fibra,chia,51,102
+SC,57,M,2025-12-01,Jantar,Carboidrato,batata,41,164
+CE,35,M,2025-11-06,Jantar,fibra,chia,87,174
+AL,26,Outro,2025-12-27,Lanche,acucar,chocolate,7,28
+ES,25,Outro,2026-02-13,Lanche,Carboidrato,batata,2,8
+SC,54,M,2025-10-05,Lanche,fibra,brocolis,55,110
+BA,38,Outro,2026-02-05,Lanche,fibra,aveia,60,120
+RS,46,F,2026-02-15,Lanche,Carboidrato,macarrao,32,128
+SC,34,Outro,2025-12-01,Jantar,fibra,brocolis,44,88
+RN,65,M,2025-12-31,Cafe da manha,Gordura,castanhas,77,693
+AM,63,F,2026-01-06,Almoco,fibra,brocolis,34,68
+ES,37,M,2026-02-12,Almoco,fibra,couve,76,152
+DF,40,F,2026-02-28,Lanche,Carboidrato,batata,69,276
+RR,48,M,2025-11-12,Almoco,Carboidrato,batata,92,368
+ES,63,Outro,2026-01-08,Jantar,Gordura,azeite,15,135
+CE,53,M,2025-12-26,Cafe da manha,Proteina,ovos,35,140
+TO,19,F,2025-12-08,Almoco,Proteina,lentilha,61,244
+SC,63,M,2025-12-21,Almoco,Proteina,peixe,85,340
+RJ,73,M,2026-03-13,Lanche,Gordura,abacate,19,171
+SE,23,F,2025-10-17,Almoco,Proteina,peixe,99,396
+RN,22,F,2025-10-16,Almoco,acucar,biscoito,9,36
+RR,44,Outro,2025-10-28,Jantar,fibra,brocolis,21,42
+BA,47,M,2026-01-30,Lanche,Proteina,feijao,58,232
+GO,25,F,2026-02-11,Jantar,acucar,refrigerante,27,108
+RS,49,Outro,2026-02-06,Jantar,Proteina,ovos,41,164
+BA,57,F,2025-09-26,Jantar,Gordura,castanhas,20,180
+RS,33,Outro,2026-02-26,Jantar,fibra,linhaca,42,84
+AC,57,M,2025-10-17,Jantar,Gordura,castanhas,75,675
+SP,20,F,2025-10-11,Lanche,acucar,sorvete,5,20
+DF,78,M,2026-01-17,Almoco,acucar,bolo,85,340
+AC,31,F,2025-10-08,Cafe da manha,fibra,linhaca,19,38
+DF,41,F,2026-02-10,Almoco,Gordura,castanhas,83,747
+TO,74,F,2025-12-15,Almoco,Carboidrato,batata,69,276
+PE,44,M,2025-11-21,Jantar,Gordura,abacate,85,765
+AP,73,Outro,2025-11-05,Almoco,fibra,couve,87,174
+TO,61,F,2025-11-22,Jantar,acucar,biscoito,71,284
+PR,48,Outro,2026-02-26,Almoco,Carboidrato,batata,57,228
+PA,19,M,2026-02-08,Cafe da manha,Proteina,feijao,33,132
+GO,28,M,2025-11-07,Almoco,Proteina,lentilha,63,252
+TO,44,Outro,2025-12-16,Jantar,Gordura,abacate,37,333
+RO,73,Outro,2026-02-27,Almoco,Gordura,castanhas,38,342
+ES,54,Outro,2026-01-11,Jantar,Carboidrato,pao,100,400
+PI,42,F,2026-03-11,Almoco,Proteina,frango,55,220
+PA,19,M,2026-01-28,Almoco,Gordura,azeite,5,45
+PB,50,Outro,2025-12-24,Lanche,Gordura,azeite,36,324
+MA,52,F,2025-11-21,Almoco,Proteina,ovos,43,172
+PB,31,Outro,2025-11-28,Cafe da manha,Proteina,peixe,93,372
+GO,49,M,2025-11-02,Almoco,fibra,linhaca,35,70
+TO,71,F,2026-03-08,Cafe da manha,fibra,linhaca,95,190
+RS,50,F,2025-11-23,Lanche,Proteina,ovos,9,36
+PE,42,M,2025-10-17,Cafe da manha,Gordura,castanhas,62,558
+SC,64,F,2026-02-03,Almoco,acucar,refrigerante,58,232
+AC,41,Outro,2025-12-09,Cafe da manha,Proteina,lentilha,25,100
+PE,51,M,2025-12-27,Lanche,fibra,couve,71,142
+SP,36,Outro,2025-11-21,Cafe da manha,fibra,aveia,84,168
+AP,41,M,2026-02-16,Cafe da manha,acucar,refrigerante,75,300
+SC,80,M,2025-12-25,Jantar,fibra,couve,84,168
+TO,73,M,2025-12-25,Jantar,Gordura,queijo,81,729
+ES,79,F,2026-02-28,Jantar,Proteina,ovos,30,120
+RR,54,F,2025-11-16,Almoco,Proteina,ovos,51,204
+AM,75,Outro,2025-12-10,Lanche,acucar,biscoito,31,124
+BA,76,Outro,2025-12-13,Almoco,Proteina,frango,49,196
+AL,70,Outro,2026-03-02,Jantar,Proteina,frango,2,8
+RN,45,Outro,2025-10-29,Lanche,Carboidrato,batata,58,232
+SC,56,Outro,2025-11-04,Almoco,Carboidrato,macarrao,16,64
+TO,65,M,2026-03-10,Jantar,Proteina,frango,69,276
+CE,41,Outro,2025-10-25,Lanche,Gordura,castanhas,99,891
+MA,30,Outro,2026-03-01,Lanche,fibra,aveia,87,174
+PA,79,Outro,2026-01-17,Almoco,fibra,couve,18,36
+SE,19,M,2025-12-27,Jantar,acucar,biscoito,35,140
+AC,25,M,2025-11-03,Lanche,fibra,brocolis,100,200
+RN,61,Outro,2026-01-05,Lanche,Gordura,abacate,43,387
+PB,59,Outro,2026-01-21,Almoco,fibra,brocolis,5,10
+PA,18,M,2025-12-19,Lanche,Gordura,queijo,40,360
+SE,57,F,2026-01-16,Lanche,acucar,biscoito,57,228
+PB,65,Outro,2025-11-29,Almoco,Proteina,feijao,30,120
+CE,67,Outro,2026-02-20,Almoco,Proteina,ovos,97,388
+AL,23,F,2025-11-03,Lanche,Carboidrato,arroz,32,128
+RS,24,F,2025-10-14,Lanche,Carboidrato,cuscuz,31,124
+PR,63,F,2025-10-25,Jantar,acucar,bolo,66,264
+MA,73,F,2025-12-15,Jantar,fibra,linhaca,51,102
+RS,80,Outro,2025-09-18,Jantar,Carboidrato,pao,44,176
+DF,69,Outro,2026-01-01,Lanche,Gordura,azeite,85,765
+AL,73,F,2025-11-07,Almoco,Proteina,carne_bovina,6,24
+RO,46,F,2026-03-05,Cafe da manha,acucar,biscoito,24,96
+TO,49,F,2025-12-01,Lanche,Proteina,frango,84,336
+PI,48,F,2026-03-12,Cafe da manha,Carboidrato,mandioca,36,144
+ES,55,Outro,2026-01-23,Almoco,fibra,linhaca,0,0
+PA,20,F,2026-01-07,Jantar,acucar,biscoito,60,240
+SE,61,M,2025-10-21,Almoco,Gordura,castanhas,56,504
+CE,28,F,2025-11-19,Almoco,fibra,couve,25,50
+SP,31,M,2025-12-09,Lanche,Proteina,peixe,85,340
+AM,32,F,2026-01-05,Cafe da manha,acucar,sorvete,14,56
+DF,66,M,2025-12-04,Almoco,Proteina,lentilha,67,268
+PI,24,F,2025-10-04,Almoco,Gordura,castanhas,13,117
+PA,51,F,2026-02-07,Cafe da manha,acucar,refrigerante,19,76
+MA,59,F,2025-09-27,Jantar,Gordura,azeite,39,351
+TO,27,Outro,2025-09-29,Almoco,fibra,brocolis,82,164
+DF,62,F,2025-12-30,Almoco,Gordura,manteiga,45,405
+RJ,71,M,2026-01-25,Lanche,fibra,aveia,63,126
+AC,37,F,2026-01-30,Lanche,acucar,chocolate,54,216
+RR,75,Outro,2025-10-30,Almoco,acucar,sorvete,41,164
+SP,26,Outro,2026-01-11,Lanche,acucar,biscoito,79,316
+SP,75,M,2025-11-06,Lanche,fibra,brocolis,0,0
+PA,66,F,2025-12-20,Almoco,Proteina,feijao,84,336
+RS,55,M,2025-10-22,Lanche,fibra,couve,49,98
+PA,43,Outro,2025-11-29,Lanche,Proteina,carne_bovina,1,4
+PR,53,Outro,2025-10-27,Almoco,Carboidrato,macarrao,4,16
+RO,80,F,2025-10-21,Jantar,Gordura,queijo,29,261
+AL,57,F,2025-12-15,Cafe da manha,fibra,chia,25,50
+AP,18,M,2026-02-06,Almoco,fibra,brocolis,18,36
+PA,57,Outro,2025-10-29,Lanche,fibra,chia,55,110
+RN,29,M,2026-01-15,Cafe da manha,Gordura,manteiga,1,9
+SP,29,F,2025-11-03,Lanche,Proteina,ovos,22,88
+MG,28,F,2026-02-08,Almoco,fibra,chia,65,130
+SP,65,F,2026-01-06,Cafe da manha,Carboidrato,mandioca,62,248
+MT,38,F,2025-10-14,Almoco,Proteina,ovos,77,308
+TO,64,Outro,2025-11-05,Lanche,Carboidrato,mandioca,74,296
+PA,44,Outro,2026-01-11,Lanche,Carboidrato,pao,16,64
+AP,41,M,2025-10-11,Jantar,acucar,refrigerante,52,208
+SC,41,Outro,2026-01-25,Cafe da manha,acucar,chocolate,59,236
+ES,26,F,2025-11-12,Cafe da manha,Gordura,queijo,8,72
+SE,37,F,2026-02-28,Almoco,Gordura,abacate,55,495
+SE,63,M,2025-11-18,Cafe da manha,fibra,aveia,88,176
+BA,51,M,2025-11-18,Jantar,acucar,biscoito,66,264
+RR,30,Outro,2026-03-03,Jantar,Proteina,ovos,2,8
+BA,80,M,2025-09-26,Cafe da manha,fibra,linhaca,66,132
+ES,19,F,2025-11-15,Cafe da manha,acucar,chocolate,59,236
+SE,47,F,2026-01-22,Jantar,Gordura,abacate,19,171
+DF,57,F,2026-01-10,Lanche,Proteina,frango,19,76
+RJ,40,Outro,2026-01-08,Cafe da manha,Gordura,azeite,16,144
+GO,21,Outro,2025-11-07,Lanche,Proteina,lentilha,12,48
+GO,29,F,2025-11-07,Almoco,Gordura,abacate,83,747
+BA,79,F,2026-01-14,Cafe da manha,Carboidrato,pao,10,40
+RO,66,M,2025-11-08,Almoco,Gordura,castanhas,91,819
+MT,48,Outro,2026-02-09,Jantar,fibra,aveia,43,86
+PA,31,M,2026-02-12,Cafe da manha,Proteina,feijao,44,176
+PR,72,F,2025-09-20,Almoco,fibra,brocolis,61,122
+RO,54,F,2026-01-11,Lanche,Gordura,abacate,72,648
+PE,39,Outro,2025-12-08,Almoco,acucar,refrigerante,0,0
+MT,59,Outro,2025-09-22,Almoco,Proteina,feijao,94,376
+PB,66,M,2025-10-30,Cafe da manha,acucar,refrigerante,21,84
+AC,22,M,2026-01-02,Lanche,acucar,chocolate,87,348
+RJ,80,Outro,2025-12-24,Lanche,fibra,aveia,37,74
+MA,71,F,2025-11-08,Almoco,Gordura,azeite,42,378
+RO,58,F,2025-10-24,Almoco,Carboidrato,mandioca,58,232
+AM,27,M,2026-01-04,Almoco,acucar,sorvete,31,124
+MT,56,Outro,2025-11-23,Lanche,Proteina,peixe,65,260
+PE,75,M,2025-09-28,Almoco,fibra,brocolis,21,42
+PE,27,F,2025-12-13,Lanche,fibra,brocolis,0,0
+DF,33,Outro,2026-01-16,Cafe da manha,acucar,refrigerante,7,28
+GO,40,Outro,2026-01-12,Lanche,Gordura,azeite,95,855
+SE,59,Outro,2025-11-08,Lanche,Carboidrato,arroz,13,52
+SC,52,Outro,2025-10-24,Jantar,acucar,bolo,27,108
+RJ,76,M,2026-02-22,Almoco,fibra,chia,11,22
+GO,64,F,2025-12-02,Almoco,acucar,refrigerante,59,236
+GO,18,Outro,2026-02-20,Almoco,Carboidrato,pao,78,312
+GO,34,M,2026-03-09,Cafe da manha,fibra,brocolis,16,32
+DF,42,Outro,2025-11-13,Cafe da manha,Gordura,abacate,70,630
+RO,62,M,2025-11-21,Lanche,Proteina,feijao,16,64
+PE,24,Outro,2026-01-02,Jantar,Gordura,manteiga,71,639
+AC,79,F,2025-10-30,Almoco,acucar,biscoito,87,348
+RO,28,Outro,2025-09-28,Almoco,Gordura,castanhas,84,756
+RN,73,F,2025-10-18,Jantar,Proteina,carne_bovina,9,36
+TO,51,F,2025-11-03,Jantar,Gordura,manteiga,26,234
+MT,33,F,2026-01-11,Jantar,Proteina,ovos,40,160
+DF,49,F,2026-01-23,Jantar,acucar,refrigerante,52,208
+GO,26,F,2026-02-27,Jantar,Carboidrato,mandioca,22,88
+MG,49,Outro,2025-11-12,Lanche,Proteina,feijao,22,88
+RR,42,M,2026-03-05,Lanche,acucar,sorvete,5,20
+CE,77,M,2026-03-05,Cafe da manha,Proteina,feijao,85,340
+MG,36,Outro,2025-11-21,Almoco,Gordura,abacate,6,54
+AC,61,Outro,2026-03-09,Jantar,acucar,sorvete,86,344
+RJ,68,F,2026-01-16,Cafe da manha,fibra,brocolis,15,30
+PR,73,Outro,2026-01-03,Almoco,Gordura,manteiga,83,747
+CE,34,F,2025-12-10,Cafe da manha,acucar,chocolate,57,228
+DF,50,F,2026-02-06,Jantar,Gordura,castanhas,90,810
+RO,27,F,2025-11-25,Jantar,Carboidrato,pao,82,328
+MA,34,M,2026-01-25,Jantar,Carboidrato,cuscuz,13,52
+RO,24,Outro,2026-02-07,Cafe da manha,Carboidrato,arroz,57,228
+CE,34,F,2025-09-16,Jantar,acucar,refrigerante,72,288
+MG,42,M,2025-12-14,Almoco,Gordura,azeite,27,243
+PE,25,M,2026-02-14,Cafe da manha,acucar,refrigerante,26,104
+AC,59,F,2025-09-26,Cafe da manha,Proteina,peixe,37,148
+SC,36,M,2026-02-04,Almoco,fibra,brocolis,22,44
+CE,57,M,2025-11-08,Lanche,Carboidrato,arroz,83,332
+RR,77,M,2026-03-10,Almoco,Gordura,azeite,54,486
+MS,69,F,2026-02-16,Almoco,acucar,sorvete,73,292
+ES,60,Outro,2026-01-06,Lanche,Proteina,lentilha,14,56
+BA,20,M,2025-11-23,Almoco,acucar,refrigerante,91,364
+MA,25,F,2026-02-20,Lanche,acucar,sorvete,42,168
+PR,34,M,2025-10-07,Cafe da manha,acucar,chocolate,17,68
+RO,30,M,2026-02-05,Cafe da manha,Gordura,azeite,80,720
+SE,60,Outro,2026-02-10,Cafe da manha,Proteina,frango,82,328
+PI,25,M,2026-01-09,Almoco,fibra,brocolis,36,72
+RJ,68,M,2026-03-11,Jantar,acucar,sorvete,2,8
+PA,42,M,2026-02-25,Jantar,Gordura,azeite,43,387
+DF,23,F,2026-02-18,Almoco,acucar,bolo,26,104
+SP,25,M,2026-01-29,Lanche,Carboidrato,arroz,92,368
+AM,30,M,2026-02-05,Cafe da manha,acucar,biscoito,97,388
+RR,60,M,2025-11-09,Jantar,acucar,chocolate,63,252
+AC,23,M,2025-12-22,Cafe da manha,acucar,refrigerante,91,364
+PA,60,F,2026-02-26,Jantar,Carboidrato,mandioca,20,80
+RR,53,F,2025-12-10,Almoco,Gordura,manteiga,16,144
+AC,28,M,2025-10-21,Almoco,acucar,refrigerante,27,108
+RJ,26,Outro,2025-12-28,Jantar,Proteina,feijao,65,260
+RR,74,M,2026-01-09,Jantar,fibra,linhaca,28,56
+RO,36,F,2025-12-15,Almoco,Gordura,abacate,37,333
+RJ,38,F,2025-12-19,Almoco,Carboidrato,mandioca,17,68
+PE,68,F,2026-02-27,Almoco,acucar,refrigerante,98,392
+AC,24,F,2025-10-03,Lanche,fibra,linhaca,19,38
+RJ,79,Outro,2026-02-24,Lanche,acucar,sorvete,26,104
+BA,75,M,2025-10-01,Cafe da manha,Carboidrato,arroz,92,368
+CE,74,M,2025-10-14,Lanche,Proteina,feijao,66,264
+PR,38,M,2025-12-24,Jantar,fibra,linhaca,29,58
+PE,19,F,2025-11-19,Lanche,Proteina,ovos,6,24
+AC,54,Outro,2026-02-26,Lanche,acucar,chocolate,34,136
+RJ,34,F,2025-09-22,Lanche,Gordura,azeite,49,441
+RJ,50,Outro,2025-12-18,Jantar,Carboidrato,cuscuz,97,388
+PA,56,F,2026-01-25,Jantar,Proteina,feijao,88,352
+SC,28,Outro,2026-02-06,Almoco,Gordura,manteiga,55,495
+MS,71,Outro,2025-10-04,Jantar,Carboidrato,cuscuz,100,400
+DF,49,M,2026-02-21,Almoco,Gordura,queijo,77,693
+ES,39,M,2025-12-16,Cafe da manha,acucar,bolo,74,296
+ES,53,F,2025-11-03,Cafe da manha,fibra,couve,0,0
+SC,25,M,2025-10-26,Jantar,Gordura,manteiga,14,126
+MS,46,M,2025-10-13,Jantar,Gordura,manteiga,78,702
+SE,26,Outro,2025-12-21,Jantar,Proteina,peixe,95,380
+RJ,37,F,2026-03-09,Lanche,Proteina,lentilha,79,316
+RS,52,Outro,2025-11-21,Lanche,acucar,bolo,60,240
+AL,48,Outro,2025-10-27,Almoco,Carboidrato,batata,80,320
+SP,70,F,2026-02-15,Jantar,Carboidrato,cuscuz,16,64
+MS,45,Outro,2025-10-14,Cafe da manha,Carboidrato,arroz,53,212
+AM,52,Outro,2025-10-03,Jantar,Carboidrato,arroz,41,164
+AC,31,F,2025-11-26,Cafe da manha,fibra,brocolis,69,138
+PE,45,F,2025-10-20,Lanche,fibra,chia,7,14
+PR,38,Outro,2026-02-17,Almoco,acucar,bolo,85,340
+AM,51,F,2025-10-11,Lanche,Proteina,feijao,75,300
+SE,80,F,2025-10-04,Almoco,Gordura,queijo,81,729
+MT,28,F,2026-01-10,Lanche,Carboidrato,macarrao,48,192
+AC,64,Outro,2025-10-01,Lanche,Proteina,feijao,41,164
+ES,37,F,2026-02-05,Jantar,Gordura,queijo,87,783
+AP,31,F,2026-03-04,Lanche,Carboidrato,arroz,35,140
+GO,66,Outro,2025-09-23,Almoco,Gordura,abacate,97,873
+AM,31,Outro,2026-01-05,Lanche,acucar,biscoito,6,24
+AC,41,F,2026-01-25,Cafe da manha,acucar,biscoito,15,60
+RJ,18,Outro,2026-02-20,Jantar,Proteina,ovos,28,112
+RN,66,F,2026-02-04,Jantar,Proteina,lentilha,87,348
+ES,40,F,2026-01-15,Almoco,Gordura,azeite,7,63
+TO,52,Outro,2026-01-31,Jantar,Carboidrato,arroz,84,336
+PI,25,M,2025-10-03,Lanche,fibra,couve,68,136
+SC,27,F,2026-02-21,Cafe da manha,Proteina,carne_bovina,0,0
+MA,50,F,2025-10-21,Cafe da manha,Gordura,queijo,15,135
+MA,73,Outro,2025-12-20,Cafe da manha,fibra,brocolis,74,148
+AM,46,M,2025-12-25,Jantar,Gordura,abacate,36,324
+RR,45,M,2025-11-10,Cafe da manha,Gordura,queijo,97,873
+SE,18,M,2025-11-28,Jantar,Gordura,azeite,20,180
+ES,45,Outro,2025-09-22,Almoco,fibra,aveia,47,94
+RR,36,F,2026-01-28,Cafe da manha,fibra,chia,83,166
+SP,80,M,2025-12-02,Jantar,fibra,chia,53,106
+CE,68,M,2026-03-13,Almoco,Proteina,carne_bovina,21,84
+RN,26,M,2026-03-09,Lanche,fibra,chia,90,180
+AM,64,Outro,2025-10-17,Almoco,Gordura,manteiga,37,333
+SC,25,F,2025-11-06,Almoco,fibra,brocolis,97,194
+AM,43,M,2025-10-29,Cafe da manha,Gordura,castanhas,64,576
+PR,70,F,2025-11-30,Almoco,acucar,biscoito,64,256
+AC,52,M,2026-01-09,Jantar,fibra,brocolis,48,96
+RN,27,Outro,2026-01-11,Almoco,fibra,aveia,63,126
+SE,36,M,2026-01-30,Lanche,Proteina,frango,47,188
+PE,56,F,2025-09-28,Jantar,Carboidrato,mandioca,44,176
+DF,21,F,2025-10-10,Almoco,Carboidrato,arroz,97,388
