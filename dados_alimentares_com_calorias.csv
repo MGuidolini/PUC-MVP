@@ -1,4 +1,4 @@
-Estados Brasileiros,idade,sexo,data,refeicao,Grupo de alimento,alimento especifico,quantidade ingerida,Calorias
+estados_brasileiros,idade,sexo,data,refeicao,grupo_de_alimento,alimento_especifico,quantidade_ingerida,calorias
 Mato Grosso do Sul,56,Outro,2025-11-21,Cafe da manha,fibra,chia,30,60
 Santa Catarina,79,Outro,2026-03-13,Jantar,acucar,refrigerante,100,400
 Sao Paulo,22,F,2026-02-16,Almoco,Proteina,frango,73,292
