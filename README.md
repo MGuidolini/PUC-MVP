@@ -8,7 +8,7 @@ Este README oferece uma visão geral do projeto, incluindo seus objetivos, a met
 *   **Título:** MVP Análise de Dados e Boas Práticas - Classificação Calórica de Alimentos
 *   **Autor:** Marcos Aurélio Guidolini
 *   **Matrícula:** 4052025002325
-*   **Data:** [Calorias](https://raw.githubusercontent.com/MGuidolini/PUC-MVP/refs/heads/main/calorie_dataset.csv)
+*   **Data:** `calorie_dataset.csv `
 
 Este projeto foca na análise e classificação calórica de alimentos com base em seus macronutrientes. O objetivo principal é identificar a ingestão calórica por refeição e classificá-la em níveis (**Baixa, Média, Alta**), além de explorar padrões de consumo. Ele aborda a importância do balanceamento de dados e do pré-processamento para a construção de modelos de Machine Learning robustos.
 
