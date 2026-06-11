@@ -1,12 +1,12 @@
-Modelo,Metodo de Avaliação,F1-weighted,Accuracy,ROC AUC,Tempo de Treino (s),Observações;
-Baseline,Holdout,0.0246,0.1173,0.5,0.069,Previsao da classe mais frequente; baixo desempenho devido ao desbalanceamento.
-Baseline,Validação Cruzada,0.0245,0.1169,0.5,0.01,Média dos folds; consistância com Holdout.
-"LogisticRegression,Holdout,0.9752,0.9747,0.9999,0.083,""Bom desempenho inicial e consistente,rápido e interpretável.""";
-"LogisticRegression,Validação Cruzada,0.968,0.9671,0.9998,0.059,""Média dos folds";" ligeiramente inferior ao Holdout, mas robusto."""
-"RandomForest,Holdout,0.9993,0.9993,0.9999,2.34,""Alto desempenho, mas com forte suspeita de overfitting.""";
-"RandomForest,Validação Cruzada,0.9994,0.9994,1.0,0.952,""Desempenho quase perfeito, forte indício de overfitting extremo.""";
-XGBoost,Holdout,0.996,0.996,0.9999,1.351,Alto desempenho e boa consistência.;
-XGBoost,Validação Cruzada,0.9932,0.9931,0.9998,0.183,MÃ©dia dos folds; desempenho excelente e robusto.
-"XGBoost (Otimizado),Validação Cruzada,0.9984,0.9967,0.99995,0.182,""Modelo Final - Melhor desempenho geral, melhor equilíbrio entre performance e generalização.""";
-"K-NN,Holdout,0.9175,0.9133,0.9787,0.039,""Desempenho razoável, rápido.""";
-"K-NN,Validação Cruzada,0.9046,0.8994,0.9675,0.032,""Média dos folds";" desempenho consistente com Holdout, mas inferior aos melhores."""
+Modelo,Metodo de Avaliação,F1-weighted,Accuracy,ROC AUC,Tempo de Treino (s),Observações
+"Baseline,Holdout,0.0246,0.1173,0.5,0.069,""Previsão da classe mais frequente; baixo desempenho devido ao desbalanceamento."""
+"Baseline,Validação Cruzada,0.0245,0.1169,0.5,0.01,""Média dos folds; consistância com Holdout."""
+"LogisticRegression,Holdout,0.9752,0.9747,0.9999,0.083,""Bom desempenho inicial e consistente,rápido e interpretável."""
+"LogisticRegression,Validação Cruzada,0.968,0.9671,0.9998,0.059,""Média dos folds; ligeiramente inferior ao Holdout; mas robusto."""
+"RandomForest,Holdout,0.9993,0.9993,0.9999,2.34,""Alto desempenho, mas com forte suspeita de overfitting."""
+"RandomForest,Validação Cruzada,0.9994,0.9994,1.0,0.952,""Desempenho quase perfeito; forte indício de overfitting extremo."""
+"XGBoost,Holdout,0.996,0.996,0.9999,1.351, ""Alto desempenho e boa consistência."""
+"XGBoost,Validação Cruzada,0.9932,0.9931,0.9998,0.183,""Média dos folds; desempenho excelente e robusto."""
+"XGBoost (Otimizado),Validação Cruzada,0.9984,0.9967,0.99995,0.182,""Modelo Final - Melhor desempenho geral; melhor equilíbrio entre performance e generalização."""
+"K-NN,Holdout,0.9175,0.9133,0.9787,0.039,""Desempenho razoável; rápido."""
+"K-NN,Validação Cruzada,0.9046,0.8994,0.9675,0.032,""Média dos folds; desempenho consistente com Holdout; mas inferior aos melhores."""
