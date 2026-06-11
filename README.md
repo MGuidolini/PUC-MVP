@@ -7,7 +7,7 @@ Este repositório contém o MVP (Produto Mínimo Viável) da Sprint de Machine L
 *   **Nome:** Marcos Aurélio Guidolini
 *   **Matrícula:** 4052025002325
 *   **Data:** 28/05/2026
-*   **Notebook Original:** [`MVP_ML_Analytics_Classificacao_Calorias.ipynb`](MVP_ML_Analytics_Classificacao_Calorias.ipynb)
+*   **Notebook Original:** [`MVP_ML_Analytics_Classificacao_Calorias.ipynb`](https://github.com/MGuidolini/PUC-MVP/blob/Sprint02---Machine-Learning-%26-Analytics/MVP_ML_Analytics_Final.ipynb)
 
 ## 🎯 Definição do Problema
 
