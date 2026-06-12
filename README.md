@@ -20,7 +20,7 @@ O objetivo deste projeto é desenvolver e avaliar modelos de Machine Learning pa
 ## 📊 Dataset
 
 *   **Nome:** Calorie Dataset
-*   **Fonte:** [`calorie_dataset.csv`](https://raw.githubusercontent.com/MGuidolini/PUC-MVP/refs/heads/main/calorie_dataset.csv)
+*   **Fonte:**[`calorie_dataset.csv`](https://raw.githubusercontent.com/MGuidolini/PUC-MVP/refs/heads/Sprint02---Machine-Learning-%26-Analytics/calorie_dataset.csv)
 *   **Descrição:** Conjunto de dados sintético, mas realista, contendo 5.000 amostras com informações de macronutrientes (Carboidrato, Proteína, Gordura, Fibra e Açúcar em gramas), calorias totais e uma classe de calorias.
 *   **Atributos Chave:**
     *   `Carboidrato/g`, `Proteina/g`, `Gordura/g`, `Fibra/g`, `Acucar/g`: Quantidades de macronutrientes.
