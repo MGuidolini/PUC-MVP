@@ -70,7 +70,7 @@ O modelo **XGBoost Otimizado** foi selecionado como a melhor solução, atingind
 | Métrica           | Valor     |
 | :---------------- | :-------- |
 | **F1-weighted**   | **0.99843** |
-| **Accuracy**      | **0.99667** |
+| **Accuracy**      | **0.9967** |
 | **ROC AUC**       | **0.99995** |
 | **Tempo de Treino** | **0.203 s** |
 
