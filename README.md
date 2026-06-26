@@ -72,7 +72,7 @@ O modelo **XGBoost Otimizado** foi selecionado como a melhor solução, atingind
 | **F1-weighted**   | **0.99843** |
 | **Accuracy**      | **0.99667** |
 | **ROC AUC**       | **0.99995** |
-| **Tempo de Treino** | **0.182 s** |
+| **Tempo de Treino** | **0.203 s** |
 
 *   **Comparação com Baseline:** O modelo final apresentou uma melhoria superior a 4000% no F1-weighted em relação ao baseline, superando significativamente o critério de sucesso.
 *   **Observação:** O `RandomForest` apresentou métricas quase perfeitas, mas com forte suspeita de *overfitting extremo* (ROC AUC de 1.0000 em CV), o que o tornou menos robusto para generalização em comparação com o XGBoost otimizado.
