@@ -25,7 +25,7 @@ O projeto transforma dados nutricionais brutos em respostas claras, comparáveis
 
 ## Visualização completa do Projeto
 - Aqui você consegue acessar o Projeto completo, com todos códigos e analises e evidências.
-  1. [MVP Engenharia de Dados - Completo](https://www.kaggle.com/datasets/ispangler/composio-nutricional-de-alimentos-taco)
+  1. [MVP Engenharia de Dados - Completo](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb)
      
 ### Fontes de Dados
 
