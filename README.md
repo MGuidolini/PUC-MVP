@@ -141,12 +141,12 @@ Engenharia de Dados/
 | Artefato | Descrição | Localização |
 |---|---|---|
 | **Notebook único** | Notebook consolidado com 157 células dos 7 notebooks originais |  [MVP Engenharia de Dados - Completo](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb) |
-| **Imagem 01** | Evidência da Célula - Preparação|  [Imagem 01](image_1790215534934.png) |
-| **Imagem 02** | Evidência da Célula - Download|  [Imagem 02](image_1790215716497.png) |
-| **Imagem 03** | Evidência da Célula - Bronze|  [Imagem 03](image_1790215863984.png) |
-| **Imagem 04** | Evidência da Célula - Silver|  [Imagem 04](image_1790216453904.png) |
-| **Imagem 05** | Evidência da Célula - Gold|  [Imagem 05](image_1790216137494.png) |
-| **Imagem 06** | Evidência da Célula - Analise|  [Imagem 06](image_1790216300539.png) |
+| **Imagem 01** | Evidência da Célula - Preparação|  [Imagem 01 - Preparação](image_1790215534934.png) |
+| **Imagem 02** | Evidência da Célula - Download|  [Imagem 02 - Download](image_1790215716497.png) |
+| **Imagem 03** | Evidência da Célula - Bronze|  [Imagem 03 - Bronze](image_1790215863984.png) |
+| **Imagem 04** | Evidência da Célula - Silver|  [Imagem 04 - Silver](image_1790216453904.png) |
+| **Imagem 05** | Evidência da Célula - Gold|  [Imagem 05 - Gold](image_1790216137494.png) |
+| **Imagem 06** | Evidência da Célula - Analise|  [Imagem 06 - Analise](image_1790216300539.png) |
 
 
 ## Modelagem de Dados
