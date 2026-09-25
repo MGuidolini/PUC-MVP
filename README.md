@@ -203,11 +203,11 @@ Engenharia de Dados/
 A camada Gold utiliza um **modelo estrela (star schema)** com uma tabela fato central e três dimensões:
 
 ```
-                     ┌───────────────────────┐
-                     │   dim_fonte           │
-                     │  fonte_id (PK)        │
+                     ┌────────────────────────┐
+                     │   dim_fonte            │
+                     │  fonte_id (PK)         │
                      │  nome_fonte (USDA/TACO)│
-                     └────────┬──────────────┘
+                     └────────┬───────────────┘
                               │
 ┌──────────────────┐    ┌─────┴──────────────────────┐    ┌──────────────────────┐
 │   dim_alimento   │    │      fato_nutricao         │    │ dim_grupo_alimentar  │
@@ -274,91 +274,3 @@ Este projeto utiliza dados de domínio público (CC0) do USDA e TACO. O código 
 
 - **Autor:** Marcos Guidolini
 - **Email:** mguidolini@gmail.com
-
----
-⭐ Se este projeto foi útil, deixe uma estrela no repositório!dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb) |
-| **Imagem 01** | Evidência da Célula - Preparação|  [Imagem 01 - Preparação](image_1790215534934.png) |
-| **Imagem 02** | Evidência da Célula - Download|  [Imagem 02 - Download](image_1790215716497.png) |
-| **Imagem 03** | Evidência da Célula - Bronze|  [Imagem 03 - Bronze](image_1790215863984.png) |
-| **Imagem 04** | Evidência da Célula - Silver|  [Imagem 04 - Silver](image_1790216453904.png) |
-| **Imagem 05** | Evidência da Célula - Gold|  [Imagem 05 - Gold](image_1790216137494.png) |
-| **Imagem 06** | Evidência da Célula - Analise|  [Imagem 06 - Analise](image_1790216300539.png) |
-
-
-## Modelagem de Dados
-
-A camada Gold utiliza um **modelo estrela (star schema)** com uma tabela fato central e três dimensões:
-
-```
-                     ┌────────────────────────┐
-                     │   dim_fonte            │
-                     │  fonte_id (PK)         │
-                     │  nome_fonte (USDA/TACO)│
-                     └────────┬───────────────┘
-                              │
-┌──────────────────┐    ┌─────┴──────────────────────┐    ┌──────────────────────┐
-│   dim_alimento   │    │      fato_nutricao         │    │ dim_grupo_alimentar  │
-│  alimento_id (PK)│◄───│  alimento_id (FK)          │───►│  grupo_id (PK)       │
-│  nome_alimento   │    │  fonte_id (FK)             │    │  nome_grupo          │
-│  descricao       │    │  grupo_id (FK)             │    └──────────────────────┘
-└──────────────────┘    │  valor_calorico            │
-                        │  proteina                  │
-                        │  carboidratos              │
-                        │  gordura                   │
-                        │  gordura_saturada          │
-                        │  fibras_alimentar          │
-                        │  colesterol                │
-                        │  sodio                     │
-                        │  acucares                  │
-                        │  densidade_nutritiva       │
-                        └────────────────────────────┘
-```
-
-### Tabelas Gold
-
-| Tabela | Tipo | Descrição |
-|---|---|---|
-| `fato_nutricao` | Fato | Dados nutricionais por alimento × fonte (722 registros) |
-| `dim_alimento` | Dimensão | Catálogo de alimentos com nome e descrição |
-| `dim_fonte` | Dimensão | Origem dos dados: USDA ou TACO |
-| `dim_grupo_alimentar` | Dimensão | Grupo alimentar (placeholder — "Não classificado") |
-| `food_nutrition_final_taco` | Tabela base | Unificação raw USDA + TACO (origem do star schema) |
-
-## Análises
-
-O notebook 007 responde 10 perguntas de negócio, cada uma com consulta SQL, view persistida no schema `analise` e visualização gráfica:
-
-| # | Pergunta | View criada |
-|---|---|---|
-| 01 | Melhor relação proteína por caloria | `vw_melhor_proteina_caloria` |
-| 02 | Alimentos mais ricos em fibras | `vw_maiores_fibras` |
-| 03 | Maior densidade nutricional | `vw_maior_densidade_nutritiva` |
-| 04 | Maior teor de sódio | `vw_maior_sodio` |
-| 05 | Mais adequados para dietas low-carb | `vw_low_carb` |
-| 06 | Maior quantidade de gorduras saturadas | `vw_maior_gordura_saturada` |
-| 07 | Mais indicados para ganho de massa muscular | `vw_maior_massa_muscular` |
-| 08 | Mais eficientes para saciedade com poucas calorias | `vw_maior_saciedade` |
-| 09 | Maior quantidade de açúcar | `vw_maior_acucares` |
-| 10 | Mais adequados para dietas veganas/vegetarianas | `vw_melhor_vegano` |
-
-## Contribuição
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. Commit suas alterações (`git commit -m 'feat: adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
-
-## Licença
-
-Este projeto utiliza dados de domínio público (CC0) do USDA e TACO. O código está licenciado sob a Licença MIT.
-
-## Contato
-
-- **Autor:** Marcos Guidolini
-- **Email:** mguidolini@gmail.com
-
----
-⭐ Se este projeto foi útil, deixe uma estrela no repositório!
