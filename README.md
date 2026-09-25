@@ -202,30 +202,8 @@ Engenharia de Dados/
 
 A camada Gold utiliza um **modelo estrela (star schema)** com uma tabela fato central e três dimensões:
 
-```
-                     ┌────────────────────────┐
-                     │   dim_fonte            │
-                     │  fonte_id (PK)         │
-                     │  nome_fonte (USDA/TACO)│
-                     └────────┬───────────────┘
-                              │
-┌──────────────────┐    ┌─────┴──────────────────────┐    ┌──────────────────────┐
-│   dim_alimento   │    │      fato_nutricao         │    │ dim_grupo_alimentar  │
-│  alimento_id (PK)│◄───│  alimento_id (FK)          │───►│  grupo_id (PK)       │
-│  nome_alimento   │    │  fonte_id (FK)             │    │  nome_grupo          │
-│  descricao       │    │  grupo_id (FK)             │    └──────────────────────┘
-└──────────────────┘    │  valor_calorico            │
-                        │  proteina                  │
-                        │  carboidratos              │
-                        │  gordura                   │
-                        │  gordura_saturada          │
-                        │  fibras_alimentar          │
-                        │  colesterol                │
-                        │  sodio                     │
-                        │  acucares                  │
-                        │  densidade_nutritiva       │
-                        └────────────────────────────┘
-```
+![Modelagem de Dados](image_20260925_090619.png)
+
 
 ### Tabelas Gold
 
