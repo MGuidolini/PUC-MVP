@@ -25,7 +25,15 @@ O projeto transforma dados nutricionais brutos em respostas claras, comparáveis
 
 ## Visualização completa do Projeto
 - Aqui você consegue acessar o Projeto completo, com todos códigos e analises e evidências.
-  1. [MVP Engenharia de Dados - Completo](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb)
+Foram criados 2 notebooks:
+
+  1. Com formato ipynb, contendo códigos em Phyton e SQL, que podem ser copiados para o Databricks e rodar o Notebook por completo.
+  -   
+  [MVP Engenharia de Dados - Completo - Phyton](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb)
+
+
+  2. Com formato MD, contendo tem a descrição com markdown do projeto.
+  -    [MVP Engenharia de Dados - Completo - Markdown](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.md)
 
 ### Fontes de Dados
 
@@ -189,20 +197,21 @@ Engenharia de Dados/
 
 | Artefato | Descrição | Localização |
 |---|---|---|
-| **Notebook único** | Notebook consolidado com 157 células dos 7 notebooks originais |  [MVP Engenharia de Dados - Completo](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb) |
-| **Imagem 01** | Evidência da Célula - Preparação|  [Imagem 01 - Preparação](image_1790215534934.png) |
-| **Imagem 02** | Evidência da Célula - Download|  [Imagem 02 - Download](image_1790215716497.png) |
-| **Imagem 03** | Evidência da Célula - Bronze|  [Imagem 03 - Bronze](image_1790215863984.png) |
-| **Imagem 04** | Evidência da Célula - Silver|  [Imagem 04 - Silver](image_1790216453904.png) |
-| **Imagem 05** | Evidência da Célula - Gold|  [Imagem 05 - Gold](image_1790216137494.png) |
-| **Imagem 06** | Evidência da Célula - Analise|  [Imagem 06 - Analise](image_1790216300539.png) |
-| **Imagem 07** | Evidência da Célula - Avaliação|  [Imagem 07 - Avaliação](image_1790286082234.png) |
+| **Notebook único - Phyton** | Notebook consolidado no formato em Phyton (**ipynb**) |  [MVP Engenharia de Dados - Completo](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb) |
+| **Notebook único - MD** | Notebook consolidado no formato em markdown (**MD**) |  [MVP Engenharia de Dados - Completo](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb) |
+| **Imagem 01** | Evidência da Célula - Preparação|  [Imagem 01 - Preparação](Imagens/image_1790215534934.png) |
+| **Imagem 02** | Evidência da Célula - Download|  [Imagem 02 - Download](Imagens/image_1790215716497.png) |
+| **Imagem 03** | Evidência da Célula - Bronze|  [Imagem 03 - Bronze](Imagens/image_1790215863984.png) |
+| **Imagem 04** | Evidência da Célula - Silver|  [Imagem 04 - Silver](Imagens/image_1790216453904.png) |
+| **Imagem 05** | Evidência da Célula - Gold|  [Imagem 05 - Gold](Imagens/image_1790216137494.png) |
+| **Imagem 06** | Evidência da Célula - Analise|  [Imagem 06 - Analise](Imagens/image_1790216300539.png) |
+| **Imagem 07** | Evidência da Célula - Avaliação|  [Imagem 07 - Avaliação](Imagens/image_1790286082234.png) |
 
 ## Modelagem de Dados
 
 A camada Gold utiliza um **modelo estrela (star schema)** com uma tabela fato central e três dimensões:
 
-![Modelagem de Dados](image_20260925_090619.png)
+![Modelagem de Dados](Imagens/image_20260925_090619.png)
 
 
 ### Tabelas Gold
@@ -231,6 +240,50 @@ A sessão 5.0 - Analise responde 10 perguntas de negócio, cada uma com consulta
 | 08 | Mais eficientes para saciedade com poucas calorias | `vw_maior_saciedade` |
 | 09 | Maior quantidade de açúcar | `vw_maior_acucares` |
 | 10 | Mais adequados para dietas veganas/vegetarianas | `vw_melhor_vegano` |
+
+### Descrição dos Resultados
+
+Os resultados detalhados abaixo foram obtidos a partir da execução das 10 análises no notebook **MVP Engenharia de Dados - Completo**, utilizando a tabela Gold consolidada com 722 alimentos das fontes USDA e TACO.
+
+#### 01 — Melhor relação proteína por caloria
+
+A análise identificou os alimentos que oferecem a maior concentração de proteína por caloria consumida. O ranking é calculado pela razão `proteína / valor calórico` e destaca proteínas magras — como claras de ovo, atum, frango e peixes — como os alimentos mais eficientes. Esses resultados são especialmente úteis para quem busca ganho muscular com controle calórico.
+
+#### 02 — Alimentos mais ricos em fibras
+
+Foram ranqueados os alimentos com maior teor de fibra alimentar (g) por 100 g. Os resultados evidenciam que sementes, farelos, leguminosas e vegetais integrais lideram o ranking, reforçando a importância desses grupos para saúde digestiva e controle glicêmico.
+
+#### 03 — Maior densidade nutricional
+
+A densidade nutricional — razão entre o somatório de nutrientes essenciais e o valor calórico — revelou que folhas verde-escuras, vísceras e algas apresentam os maiores índices. Esses alimentos entregam grande variedade de vitaminas e minerais com poucas calorias, sendo ideais para dietas de alta qualidade nutricional.
+
+#### 04 — Maior teor de sódio
+
+A análise dos alimentos com maior concentração de sódio (mg) mostrou que produtos processados, embutidos, conservas e queijos encabeçam a lista. O resultado serve como alerta para dietas com restrição de sódio (hipertensão, problemas renais), evidenciando a diferença entre alimentos in natura e ultraprocessados.
+
+#### 05 — Mais adequados para dietas low-carb
+
+Foram selecionados os alimentos com menor teor de carboidratos e maior teor de proteínas e/ou gorduras saudáveis. Carnes, ovos, peixes, queijos e óleos lideram o ranking, confirmando o perfil esperado de uma dieta low-carb.
+
+#### 06 — Maior quantidade de gorduras saturadas
+
+O ranking de gorduras saturadas destacou gorduras animais (banha, manteiga), queijos gordurosos, cortes de carne com alto teor lipídico e coco. Esses dados subsidiam decisões para quem precisa limitar o consumo de saturadas em favor de mono- e poliinsaturadas.
+
+#### 07 — Mais indicados para ganho de massa muscular
+
+A análise combinou alto teor proteico, presença de minerais importantes (ferro, zinco, magnésio) e densidade calórica moderada. Cortes magros de carne, frango, peixes, ovos e suplementos proteicos encabeçam a lista, confirmando que a qualidade da proteína e o perfil de micronutrientes são determinantes para hipertrofia.
+
+#### 08 — Mais eficientes para saciedade com poucas calorias
+
+O cálculo de saciedade considerou a combinação de fibra, proteína e água em relação ao valor calórico. Alimentos como vegetais folhosos, leguminosas, tubérculos cozidos e frutas ricas em fibra apareceram no topo, validando a recomendação de basear refeições em alimentos de baixa densidade calórica e alto volume.
+
+#### 09 — Maior quantidade de açúcar
+
+A análise identificou os alimentos com maior teor de açúcares totais. Açúcares refinados, mel, doces concentrados, frutas desidratadas e refrigerantes lideram o ranking. O resultado reforça a necessidade de moderar o consumo de ultraprocessados e adoçantes calóricos.
+
+#### 10 — Mais adequados para dietas veganas/vegetarianas
+
+Foram selecionados os alimentos de origem vegetal com melhor perfil proteico, maior teor de fibras e boa densidade de micronutrientes (ferro, cálcio, zinco). Leguminosas (feijão, lentilha, grão-de-bico), oleaginosas, sementes e vegetais verde-escuros destacaram-se, confirmando que é possível obter nutrição completa sem fontes animais quando há planejamento adequado.
 
 ## Contribuição
 
