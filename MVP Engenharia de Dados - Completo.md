@@ -222,10 +222,10 @@ O problema central do projeto é: **como transformar dados nutricionais brutos e
 
 > Ao final desta seção, toda a estrutura de organização de dados estará pronta para receber as cargas e transformações das próximas etapas.
 
-```
+````
 %sql
 DROP CATALOG IF EXISTS MVP_ENG_DADOS CASCADE
-```
+````
 
 ### 2.1.1 - Resumo da célula - Apaga o catálogo MVP_ENG_DADOS
 
