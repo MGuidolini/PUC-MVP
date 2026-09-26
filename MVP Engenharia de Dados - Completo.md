@@ -2966,7 +2966,7 @@ plt.show()
 ```
 ![image_1790427307925.png](./image_1790427307925.png "image_1790427307925.png")
 
-####5.2.1.1 - Explicação do Resultado
+#### 5.2.1.1 - Explicação do Resultado
 
 A consulta acima retorna os **10 alimentos com a melhor relação proteína por caloria**, ou seja, aqueles que oferecem a maior quantidade de proteína para cada caloria consumida.
 
