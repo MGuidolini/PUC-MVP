@@ -1,4 +1,3 @@
-%md
 # MVP Engenharia de Dados - Analise de Alimentos e suas informações de macronutrientes
 
 
@@ -168,14 +167,14 @@ O projeto consiste em analisar alimentos a partir de uma base nutricional ampla,
 
 A análise segue uma metodologia robusta, abordando desde a exploração inicial dos dados até a engenharia de novas características, culminando na validação de hipóteses cruciais para o entendimento dos padrões alimentares.
 
-###1.1.1 🧩 Descrição do Problema
+### 1.1.1 🧩 Descrição do Problema
 
 O problema central do projeto é: **como transformar dados nutricionais brutos em respostas claras, comparáveis e úteis sobre alimentos?**
 
 
 ### 1.1.2 📌 Hipóteses e Perguntas para Análise
 
-####🧪 Hipóteses que você pode testar com uma tabela de nutrição
+#### 🧪 Hipóteses que você pode testar com uma tabela de nutrição
 1. Alimentos com maior densidade calórica tendem a ter menor teor de fibras.
 2. Frutas possuem maior concentração de carboidratos simples do que vegetais.
 3. Fontes de proteína animal têm mais gordura saturada do que fontes vegetais.
@@ -187,7 +186,7 @@ O problema central do projeto é: **como transformar dados nutricionais brutos e
 9. Vegetais verdes escuros são mais ricos em ferro e cálcio do que vegetais claros.
 10. Snacks industrializados apresentam maior relação calorias/grama do que refeições completas.
 
-###1.1.3❓ Perguntas que você pode responder com a tabela
+### 1.1.3❓ Perguntas que você pode responder com a tabela
 1. Quais alimentos têm a melhor relação proteína por caloria?
 2. Quais itens são mais ricos em fibras por porção?
 3. Quais alimentos têm maior densidade nutricional (micronutrientes por caloria)?
@@ -245,7 +244,7 @@ DROP CATALOG IF EXISTS MVP_ENG_DADOS CASCADE
 
 > Esse comando é útil em ambientes de desenvolvimento para garantir um estado limpo antes de recriar a estrutura do zero, que é exatamente o que acontece na célula seguinte.
 
-```sql
+```
 %sql
 CREATE CATALOG MVP_ENG_DADOS
 ```
@@ -255,7 +254,7 @@ CREATE CATALOG MVP_ENG_DADOS
 
 O comando abaixo **cria um novo catálogo** no Unity Catalog:
 
-```sql
+```
 %sql
 CREATE CATALOG MVP_ENG_DADOS
 ```
@@ -265,7 +264,7 @@ CREATE CATALOG MVP_ENG_DADOS
 
 > Este catálogo foi criado logo após a remoção (DROP) do catálogo anterior, garantindo que o ambiente esteja limpo e pronto para a recriação da estrutura do zero.
 
-```sql
+```
 %sql
 USE CATALOG MVP_ENG_DADOS 
 ```
@@ -277,7 +276,7 @@ USE CATALOG MVP_ENG_DADOS
 
 O comando abaixo **seleciona o catálogo** `MVP_ENG_DADOS` como ativo:
 
-```sql
+```
 %sql
 USE CATALOG MVP_ENG_DADOS
 ```
@@ -287,7 +286,7 @@ USE CATALOG MVP_ENG_DADOS
 
 > Este comando é executado logo após a criação do catálogo, garantindo que os próximos comandos (`CREATE SCHEMA bronze`, `CREATE SCHEMA silver`, etc.) sejam criados dentro do catálogo correto, sem necessidade de referenciar o catálogo explicitamente em cada comando.
 
-```sql
+```
 %sql
 CREATE SCHEMA bronze
 ```
@@ -300,7 +299,7 @@ CREATE SCHEMA bronze
 
 O comando abaixo **cria o schema** `bronze` dentro do catálogo ativo `MVP_ENG_DADOS`:
 
-```sql
+```
 %sql
 CREATE SCHEMA bronze
 ```
@@ -310,7 +309,7 @@ CREATE SCHEMA bronze
 
 > O schema `bronze` servirá como local de armazenamento das tabelas de dados raw, que posteriormente serão tratadas e enviadas para as camadas `silver` e `gold`.
 
-```sql
+```
 %sql
 CREATE SCHEMA silver
 ```
@@ -323,7 +322,7 @@ CREATE SCHEMA silver
 
 O comando abaixo **cria o schema** `silver` dentro do catálogo ativo `MVP_ENG_DADOS`:
 
-```sql
+```
 %sql
 CREATE SCHEMA silver
 ```
@@ -393,7 +392,8 @@ CREATE SCHEMA analise
 
 O comando abaixo **cria o schema** `analise` dentro do catálogo ativo `MVP_ENG_DADOS`:
 
-```sql
+```
+%sql
 CREATE SCHEMA analise
 ```
 
@@ -3134,7 +3134,7 @@ A **Questão 02** solicitava a identificação dos **itens mais ricos em fibras 
 | Facilitar a interpretação | Gráfico de colunas com rótulos nas barras |
 
 Dessa forma, a análise não apenas **identificou e ranqueou** os alimentos mais ricos em fibras, mas também **disponibilizou o resultado em uma view persistente** e em uma **visualização gráfica**, cumprindo integralmente o objetivo da Questão 02.
-%md
+
 ### 5.2.3 - Questão 03 - Maior densidade nutricional (micronutrientes por caloria)
 ```
 %sql
@@ -4173,17 +4173,17 @@ Dessa forma, a análise não apenas **identificou e ranqueou** os alimentos mais
 
 # 6.0 - Autoavaliação
 
-##6.1 - Primeiros passos
+## 6.1 - Primeiros passos
 
 Escolhi e tema, pois além de ser formado no P15 da PUC em 2003, eu também fiz faculdade de gastronomia, pois é um Hobbie que eu pratico e gostaria de fazer um investimento em alimentação saudável, a partir disso comecei a elabroar o que seria necessário para isso, pesquisei sobre o assunto e a princípal para fazer uma comida suadável os macronutrientes poderia me dar uma caminho, então elaborei as 10 perguntas da sessão 1.0 - Contexto de Negócio e Perguntas.
 
-##6.2 - Expectativas
+## 6.2 - Expectativas
 Esperava que todas as perguntas fossem respondidas e que trouxesse alguns insights para empreender nessa nova área que estou querendo atuar. Acredito que fazendo essa pós-graduação ajudaria muito nas tomadas de decisão e no crescimento de conhecimento com o aprendizado em ciências de dados, ter o poder decisão com as informações de qualidade e análise com uma precisão alta.
 
 Escolhi a base de dados que utilizei nas 2 sprints anteriores para poder responder as perguntas.
 
 
-##6.3 - Mudança de Rota
+## 6.3 - Mudança de Rota
 
 Quando analisei os dados utilizados anteriormente nas 2 sprints passadas, vi que não me atenderia, pois nessa base não tinha todos os campos necessários para responder as perguntas.
 
@@ -4196,7 +4196,7 @@ Então fui procurar bases de dados em diferentes sites de repositórios de dados
 
 O problema da primeira base que eu encontrei não continham muitos dados, somente 124 linhas, então fui procurar outra fonte e encontrei a segunda com 597 linhas, então resolvi juntar as duas e com elas eu conseguiria responder as perguntas.
 
-##6.4 - Avaliação
+## 6.4 - Avaliação
 
 Aprendi muito com a pós e principalmente com o MVP, nele pude colocar em prática o que vi nas aulas gravadas.
 Fazendo esse projeto pude entender as dificuldades que podem aparecer durante a escolha dos dados que serão utilizados, principalmente se tiver que realizar muitas alterações na limpeza de dados e nas escolhas dos campos que devem ser utilizados para se atingir o objetivo.
