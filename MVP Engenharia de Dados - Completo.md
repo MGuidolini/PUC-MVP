@@ -437,7 +437,7 @@ USE CATALOG MVP_ENG_DADOS;
 ### 3.1.1 - Resumo: 
 Define o catálogo `MVP_ENG_DADOS` como ativo na sessão atual do Unity Catalog.
 
-####Explicação do Código: 
+#### Explicação do Código: 
 O comando `USE CATALOG MVP_ENG_DADOS;` acima, define o catálogo `MVP_ENG_DADOS` como o catálogo ativo para a sessão atual no Unity Catalog. Isso significa que todas as operações subsequentes (como criação de volumes, tabelas e schemas) serão realizadas dentro deste catálogo, a menos que seja explicitamente especificado outro catálogo.
 
 ```
@@ -448,7 +448,7 @@ CREATE VOLUME adaptacao.nutri_alimentos
 ### 3.1.2 - Resumo: 
 Cria o volume `nutri_alimentos` no schema `adaptacao` do catálogo `MVP_ENG_DADOS`, que será utilizado como local de armazenamento para arquivos não estruturados, como CSVs, imagens, PDFs, etc.
 
-####Explicação do Código: 
+#### Explicação do Código: 
 O comando `CREATE VOLUME adaptacao.nutri_alimentos` acima, cria um volume chamado `nutri_alimentos` no schema `adaptacao` do catálogo `MVP_ENG_DADOS` (que foram definidos anteriormente). Um volume no Unity Catalog é um local de armazenamento para arquivos não estruturados, como CSVs, imagens, PDFs, etc. Isso significa que todos os arquivos copiados para este volume poderão ser acessados por comandos subsequentes (como leitura de CSVs, cópia de arquivos, etc.) utilizando o caminho `/Volumes/mvp_eng_dados/adaptacao/nutri_alimentos/`, a menos que seja explicitamente especificado outro caminho.
 
 ## 3.2 - Food Nutrition Dataset
@@ -538,7 +538,7 @@ Isso significa que o arquivo **Taco.csv**, que contém dados de composição nut
 #### Contexto
 Composição dos alimentos por 100 gramas de parte comestível.
 
-####Legenda Abreviações:
+#### Legenda Abreviações:
 - g: grama;
 - µg: micrograma;
 - kcal: kilocaloria;
@@ -553,7 +553,7 @@ Composição dos alimentos por 100 gramas de parte comestível.
 - valores de nutrientes arredondados para números com uma casa decimal que caiam entre 0 e 0.05;
 - valores de nutrientes arredondados para números, com duas casas decimais que caiam entre 0 e 0.005 e;
 - valores abaixo dos limites de quantificação (33).
-####Limites de Quantificação:
+#### Limites de Quantificação:
 - composição centesimal: 0.1g/100g;
 - colesterol: 1mg/100g;
 - Cu Fe Mn e Zn: 0.001mg/100g; d) Ca Na: 0.04mg/100g;
