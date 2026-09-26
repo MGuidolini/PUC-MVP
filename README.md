@@ -28,8 +28,7 @@ O projeto transforma dados nutricionais brutos em respostas claras, comparáveis
 Foram criados 2 notebooks:
 
   1. Com formato ipynb, contendo códigos em Phyton e SQL, que podem ser copiados para o Databricks e rodar o Notebook por completo.
-  -   
-  [MVP Engenharia de Dados - Completo - Phyton](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb)
+  -   [MVP Engenharia de Dados - Completo - Phyton](https://github.com/MGuidolini/PUC-MVP/blob/Sprint03---Engenharia-de-dados/MVP%20Engenharia%20de%20Dados%20-%20Completo.ipynb)
 
 
   2. Com formato MD, contendo tem a descrição com markdown do projeto.
