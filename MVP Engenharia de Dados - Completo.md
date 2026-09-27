@@ -1199,7 +1199,7 @@ Após essa etapa, a tabela passa a ter todas as colunas em português, facilitan
 
 ### 4.1.4 - Evidência da Criação da Camada Bronze
 
-![image_1790215863984.png](./image_1790215863984.png "image_1790215863984.png")
+![image_1790215863984.png](Imagens/image_1790215863984.png)
 
 
 ## 4.2 - Camada Silver (Qualidade de Dados)
@@ -2066,7 +2066,7 @@ if df_nulls.count() == 0:
     print("\nNenhum campo nulo ou em branco encontrado!")
 
 ```
-![image_1790426547585.png](./image_1790426547585.png "image_1790426547585.png")
+![image_1790426547585.png](Imagens/image_1790426547585.png)
 
 
 #### 4.2.3.7 - Explicação da Célula — Verificação de valores nulos ou em branco na tabela `alimentos_taco_silver`
@@ -2755,7 +2755,7 @@ A modelagem em **modelo estrela** foi criada a partir da tabela Gold `food_nutri
 
 ### Estrutura do modelo
 
-![Modelagem de Dados](image_20260925_090619.png)
+![Modelagem de Dados](Imagens/image_20260925_090619.png)
 
 
 ### Dicionário de Dados — Tabela Fato
@@ -2830,7 +2830,7 @@ A modelagem em **modelo estrela** foi criada a partir da tabela Gold `food_nutri
 
 ### 4.3.3 - Evidência da Criação da Camada Gold
 
-![image_1790216137494.png](./image_1790216137494.png "image_1790216137494.png")
+![image_1790216137494.png](Imagens/image_1790216137494.png)
 
 
 # 5.0 Análise
@@ -3173,7 +3173,7 @@ ORDER BY densidade_nutritiva DESC
 LIMIT 10
 """).display()
 ```
-![image_1790427908298.png](./image_1790427908298.png "image_1790427908298.png")
+![image_1790427908298.png](Imagens/image_1790427908298.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
