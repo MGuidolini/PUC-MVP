@@ -405,7 +405,7 @@ CREATE SCHEMA analise
 
 ## 2.2 - Evidência de Catálogo e Schemas Criados
 
-![image_1790215534934.png](./image_1790215534934.png "image_1790215534934.png")
+![image_1790215534934.png](Imagens/image_1790215534934.png)
 
 
 # 3.0 - Carga de Dados
@@ -602,7 +602,7 @@ Valores correspondentes à somatória do resultado analítico do retinol mais o 
 
 ## 3.4 - Evidência do Download dos Arquivos
 
-![image_1790215716497.png](./image_1790215716497.png "image_1790215716497.png")
+![image_1790215716497.png](Imagens/image_1790215716497.png)
 
 
 # 4.0 - Pipeline, Modelagem e Catálogo de Dados
@@ -1446,7 +1446,7 @@ UNPIVOT (qtd_em_branco FOR coluna IN (
 WHERE qtd_em_branco > 0
 ORDER BY qtd_em_branco DESC;
 ```
-![image_1790425537790.png](./image_1790425537790.png "image_1790425537790.png")
+![image_1790425537790.png](Imagens/image_1790425537790.png)
 
 #### 4.2.2.3 - Explicação da Célula — Verificação de campos em branco na tabela Silver
 
@@ -1504,7 +1504,7 @@ else:
             display(df.filter(col(c) < 0).select("alimento", c).limit(10))
             break
 ```
-![image_1790425619743.png](./image_1790425619743.png "image_1790425619743.png")
+![image_1790425619743.png](Imagens/image_1790425619743.png)
 
 #### 4.2.2.4 - Explicação da Célula — Verificação de valores negativos na tabela Silver
 
@@ -2634,7 +2634,7 @@ A tabela **`alimentos_taco_final`** é a tabela analítica final da camada **sil
 
 ### 4.2.4 - Evidência da Criação da Camada Silver
 
-![image_1790216453904.png](./image_1790216453904.png "image_1790216453904.png")
+![image_1790216453904.png](Imagens/image_1790216453904.png)
 
 
 ## 4.3 - Camada Gold
@@ -2747,7 +2747,7 @@ JOIN MVP_ENG_DADOS.gold.dim_fonte f
 # Tabelas criadas: dim_fonte, dim_alimento, dim_grupo_alimentar, fato_nutricao
 spark.sql("SHOW TABLES FROM MVP_ENG_DADOS.gold").display()
 ```
-![image_1790427037973.png](./image_1790427037973.png "image_1790427037973.png")
+![image_1790427037973.png](Imagens/image_1790427037973.png)
 
 #### 4.3.2.1 - Modelo Estrela (Star Schema)
 
@@ -2906,7 +2906,7 @@ WHERE fn.valor_calorico > 0
 ORDER BY proteina_por_caloria DESC
 LIMIT 10;
 ```
-![image_1790427204628.png](./image_1790427204628.png "image_1790427204628.png")
+![image_1790427204628.png](Imagens/image_1790427204628.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -2928,7 +2928,7 @@ ORDER BY proteina_por_caloria DESC
 LIMIT 10
 """).display()
 ```
-![image_1790427283032.png](./image_1790427283032.png "image_1790427283032.png")
+![image_1790427283032.png](Imagens/image_1790427283032.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -2964,7 +2964,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790427307925.png](./image_1790427307925.png "image_1790427307925.png")
+![image_1790427307925.png](Imagens/image_1790427307925.png)
 
 #### 5.2.1.1 - Explicação do Resultado
 
@@ -3031,7 +3031,7 @@ WHERE fn.fibras_alimentar IS NOT NULL
 ORDER BY fn.fibras_alimentar DESC
 LIMIT 10;
 ```
-![image_1790427701713.png](./image_1790427701713.png "image_1790427701713.png")
+![image_1790427701713.png](Imagens/image_1790427701713.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -3051,7 +3051,7 @@ ORDER BY fibras_alimentar DESC
 LIMIT 10
 """).display()
 ```
-![image_1790427713154.png](./image_1790427713154.png "image_1790427713154.png")
+![image_1790427713154.png](Imagens/image_1790427713154.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3086,7 +3086,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790427780946.png](./image_1790427780946.png "image_1790427780946.png")
+![image_1790427780946.png](Imagens/image_1790427780946.png)
 
 #### 5.2.2.1 - Explicação do Resultado
 
@@ -3153,7 +3153,7 @@ WHERE fn.densidade_nutritiva IS NOT NULL
 ORDER BY fn.densidade_nutritiva DESC
 LIMIT 10;
 ```
-![image_1790427929142.png](./image_1790427929142.png "image_1790427929142.png")
+![image_1790427929142.png](Imagens/image_1790427929142.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -3208,7 +3208,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428025134.png](./image_1790428025134.png "image_1790428025134.png")
+![image_1790428025134.png](Imagens/image_1790428025134.png)
    
 #### 5.2.3.1 - Explicação do Resultado
 
@@ -3276,7 +3276,7 @@ WHERE fn.sodio IS NOT NULL
 ORDER BY fn.sodio DESC
 LIMIT 10;
 ```
-![image_1790428131846.png](./image_1790428131846.png "image_1790428131846.png")
+![image_1790428131846.png](Imagens/image_1790428131846.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -3296,7 +3296,7 @@ ORDER BY sodio DESC
 LIMIT 10
 """).display()
 ```
-![image_1790428143771.png](./image_1790428143771.png "image_1790428143771.png")
+![image_1790428143771.png](Imagens/image_1790428143771.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3332,7 +3332,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428186126.png](./image_1790428186126.png "image_1790428186126.png")
+![image_1790428186126.png](Imagens/image_1790428186126.png)
 
 #### 5.2.4.1 - Explicação do Resultado
 
@@ -3402,7 +3402,7 @@ WHERE fn.carboidratos IS NOT NULL AND fn.valor_calorico > 0
 ORDER BY fn.carboidratos ASC
 LIMIT 10;
 ```
-![image_1790428303189.png](./image_1790428303189.png "image_1790428303189.png")
+![image_1790428303189.png](Imagens/image_1790428303189.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -3424,7 +3424,7 @@ ORDER BY carboidratos ASC
 LIMIT 10
 """).display()
 ```
-![image_1790428307892.png](./image_1790428307892.png "image_1790428307892.png")
+![image_1790428307892.png](Imagens/image_1790428307892.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3459,7 +3459,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428343302.png](./image_1790428343302.png "image_1790428343302.png")
+![image_1790428343302.png](Imagens/image_1790428343302.png)
    
 #### 5.2.5.1 - Explicação do Resultado
 
@@ -3533,7 +3533,7 @@ WHERE fn.gordura_saturada IS NOT NULL
 ORDER BY fn.gordura_saturada DESC
 LIMIT 10;
 ```
-![image_1790428426961.png](./image_1790428426961.png "image_1790428426961.png")
+![image_1790428426961.png](Imagens/image_1790428426961.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -3553,7 +3553,7 @@ ORDER BY gordura_saturada DESC
 LIMIT 10
 """).display()
 ```
-![image_1790428429156.png](./image_1790428429156.png "image_1790428429156.png")
+![image_1790428429156.png](Imagens/image_1790428429156.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3588,7 +3588,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428464162.png](./image_1790428464162.png "image_1790428464162.png")
+![image_1790428464162.png](Imagens/image_1790428464162.png)
 #### 5.2.6.1 - Explicação do Resultado
 
 A consulta acima retorna os **10 alimentos com o maior teor de gordura saturada**, ou seja, aqueles que apresentam a maior quantidade de gordura saturada em gramas por porção, juntamente com a gordura total e o valor calórico.
@@ -3658,7 +3658,7 @@ WHERE fn.proteina IS NOT NULL
 ORDER BY score_muscular DESC
 LIMIT 10;
 ```
-![image_1790428531770.png](./image_1790428531770.png "image_1790428531770.png")
+![image_1790428531770.png](Imagens/image_1790428531770.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -3679,7 +3679,7 @@ ORDER BY score_muscular DESC
 LIMIT 10
 """).display()
 ```
-![image_1790428535445.png](./image_1790428535445.png "image_1790428535445.png")
+![image_1790428535445.png](Imagens/image_1790428535445.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3714,7 +3714,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428563303.png](./image_1790428563303.png "image_1790428563303.png")
+![image_1790428563303.png](Imagens/image_1790428563303.png)
 
 #### 5.2.7.1 - Explicação do Resultado
 
@@ -3791,7 +3791,7 @@ WHERE fn.valor_calorico > 0
 ORDER BY indice_saciedade DESC
 LIMIT 10;
 ```
-![image_1790428624818.png](./image_1790428624818.png "image_1790428624818.png")
+![image_1790428624818.png](Imagens/image_1790428624818.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 spark.sql("""
@@ -3813,7 +3813,7 @@ ORDER BY indice_saciedade DESC
 LIMIT 10
 """).display()
 ```
-![image_1790428627860.png](./image_1790428627860.png "image_1790428627860.png")
+![image_1790428627860.png](Imagens/image_1790428627860.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3848,7 +3848,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428648944.png](./image_1790428648944.png "image_1790428648944.png")
+![image_1790428648944.png](Imagens/image_1790428648944.png)
    
 #### 5.2.8.1 - Explicação do Resultado
 
@@ -3921,7 +3921,7 @@ WHERE fn.acucares IS NOT NULL
 ORDER BY fn.acucares DESC
 LIMIT 10;
 ```
-![image_1790428705724.png](./image_1790428705724.png "image_1790428705724.png")
+![image_1790428705724.png](Imagens/image_1790428705724.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 spark.sql("""
@@ -3940,7 +3940,7 @@ ORDER BY acucares DESC
 LIMIT 10
 """).display()
 ```
-![image_1790428707621.png](./image_1790428707621.png "image_1790428707621.png")
+![image_1790428707621.png](Imagens/image_1790428707621.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -3975,7 +3975,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428731770.png](./image_1790428731770.png "image_1790428731770.png")
+![image_1790428731770.png](Imagens/image_1790428731770.png)
 #### 5.2.9.1 - Explicação do Resultado
 
 A consulta acima retorna os **10 alimentos com a maior quantidade de açúcar**, ou seja, aqueles que apresentam a maior quantidade de açúcares em gramas por porção, juntamente com os carboidratos totais e o valor calórico.
@@ -4051,7 +4051,7 @@ WHERE fn.colesterol IS NULL OR fn.colesterol <= 5
 ORDER BY score_vegano DESC
 LIMIT 10;
 ```
-![image_1790428800255.png](./image_1790428800255.png "image_1790428800255.png")
+![image_1790428800255.png](Imagens/image_1790428800255.png)
 ```
 ------------------------ Cria VIEW --------------------------------
 
@@ -4075,7 +4075,7 @@ ORDER BY score_vegano DESC
 LIMIT 10
 """).display()
 ```
-![image_1790428803738.png](./image_1790428803738.png "image_1790428803738.png")
+![image_1790428803738.png](Imagens/image_1790428803738.png)
 ```
 ------------------------ Gráfico em Colunas --------------------------------
 
@@ -4110,7 +4110,7 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 ```
-![image_1790428827816.png](./image_1790428827816.png "image_1790428827816.png")   
+![image_1790428827816.png](Imagens/image_1790428827816.png)   
 
 #### 5.2.10.1 - Explicação do Resultado
 
@@ -4169,7 +4169,7 @@ Dessa forma, a análise não apenas **identificou e ranqueou** os alimentos mais
 
 ## 5.3 - Evidência da Criação da VW de Analise
 
-![image_1790216300539.png](./image_1790216300539.png "image_1790216300539.png")
+![image_1790216300539.png](Imagens/image_1790216300539.png)
 
 # 6.0 - Autoavaliação
 
@@ -4189,7 +4189,7 @@ Quando analisei os dados utilizados anteriormente nas 2 sprints passadas, vi que
 
 Base de dados inicial:
 
-![image_1790286082234.png](./image_1790286082234.png "image_1790286082234.png")
+![image_1790286082234.png](Imagens/image_1790286082234.png)
 
 
 Então fui procurar bases de dados em diferentes sites de repositórios de dados públicos e encontrei as duas bases de dados, a garimpagem foi difícil, pois ou tinham bases muito complexas com campos multivalorados com números divididos por "," e texto junto, o que demandaria muito tempo para fazer a limpeza de dados e isso fez com que eu desistisse deles, pois não teria tempo hábil.
