@@ -205,6 +205,8 @@ Engenharia de Dados/
 | **Imagem 05** | Evidência da Célula - Gold|  [Imagem 05 - Gold](Imagens/image_1790216137494.png) |
 | **Imagem 06** | Evidência da Célula - Analise|  [Imagem 06 - Analise](Imagens/image_1790216300539.png) |
 | **Imagem 07** | Evidência da Célula - Avaliação|  [Imagem 07 - Avaliação](Imagens/image_1790286082234.png) |
+| **Base de Dados Taco** | Arquivo Taco.csv orininal |  [Taco.csv](Dados_CSV/Taco.csv) |
+| **Base de Dados Food_Nutrition** | Arquivo Food_Nutrition.csv orininal|  [Food_Nutrition.csv](Dados_CSV/Food_Nutrition.csv) |
 
 ## Modelagem de Dados
 
